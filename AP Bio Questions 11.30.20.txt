@@ -4785,3 +4785,762 @@ G2
 The drug Taxol, which comes from the Pacific yew tree, is a common chemotherapeutic treatment to stop the spread of cancer of the breast. The principal mechanism by which it works is the disruption of the microtuble assembly. As a result of its function, with which process in the cell would Taxol mostly interfere?
 mitotic spindle formation
 
+RNA retroviruses such as HIV discharge both strands of RNA and molecules of reverse transcriptase into cells they infect. What is the purpose of the reverse transcriptase?
+The reverse transcriptase is required to translate viral mRNA into proteins
+
+The figure above depicts the DNA protein complex that is assembled at the transcriptional start site of gene X when the expression of gene X is activated in liver cells. Previous studies have shown that gene X is never expressed in nerve cells. Based on the diagram, which of the following most likely contributes to the specific expression of pattern of gene X?
+The activator is a sequence specific DNA binding protein that is present in some tissues but not in other tissues
+
+Which of the following normally leads to the production of functional messenger RNA in eukaryotic cells?
+The removal of portions of RNA known as intervening sequences (introns)
+
+PCR allows target segments of DNA to be produced quickly because it enables lab technicians to do which of the following?
+Amplify DNA samples
+
+What does the operon model attempt to explain?
+The coordinated control of gene expression in bacteria
+
+Rosalind Franklin's x-ray diffraction images taken in the 1950s most directly support which of the following claims about DNA
+The basic molecular structure is a helix
+
+Sickle cell anemia is associated with a mutation in the gene encoding the beta subunit of hemoglobin that results in a change from glutamic acid to valine at position 6. All other amino acids are identical to a normal hemoglobin molecule. Based on the information above, which of the following mutations is the most likely cause of sickle-cell anemia?
+A single base-pair substitution in the gene encoding the beta subunit
+
+Some strains of the bacterium Streptococcus pyogenes secrete poisonous substances called exotoxins. The genes encoding the exotoxins are though to have originated in the bacteriophages, which are viruses that infect bacteria. Which of the following is the most likely mechanism by which the S. pyogenes acquired the ability to produce the extoxins?
+Bacteriophage DNA became integrated in the bacterial chromosome
+
+If you were to observe the activity of the methylated DNA, you would expect it to
+Have turned off or slowed down the process of transcription
+
+A eukaryotic gene typically has all of the following EXCEPT
+An Operator
+
+The table below describes the action of two genes involved in the regulation of nervous system development in the nematode C. elegans. Which of the following claims is best supported by the data?
+Gene A promotes neuron development, gene B promotes programmed cell death in neuronal precursors
+
+A reasonable conclusion to draw from the results of the experiment is that
+DNA is the genetic material
+
+What was the purpose of treating the extract with protein-degrading enzymes in Procedure II?
+To demonstrate that the transforming factor is not a protein
+
+What was the purpose of treating the DNAse in Procedure III?
+To serve as a negative control by demonstrating that transformation does not occur without DNA
+
+Lactose digestion in E. coli begins with its hydrolysis by the enzyme b-galactosidase. The gene encoding b-galactosidase, lac Z, is part of a coordinately regulated operon containing other genes required for lactose utilization. Which of the following figures correctly depicts the interactions at the lac operon when lactose is NOT being utilized?
+Graph D
+
+What would occur if the repressor of an inducible operon were mutated so it could not bind to the operator?
+Continuous transcription of the operon's genes
+
+The Trp operon is a coordinately regulated group of genes that are required for trytophan biosynthesis in E. Coli. Based on the figure above, which of the following correctly describes the regulation of the Trp operon?
+In the presence of tryptophan, the repressor is active and binds to the Trp operator, preventing RNA polymerase from transcribing the operon
+
+When DNA replicates, each strand of the original DNA molecule is used as a template for the synthesis of a second, complementary strand. Which of the following figures most accurately illustrates enzyme-mediated synthesis of new DNA at a replication fork?
+D
+
+Which of the following best describes how sticklebacks in the same population with identical copies of the the Pixtl gene can still show phenotypic variation in the pelvic spine character?
+Expression of the Pixtl gene is affected by mutations at other genetic loci
+
+A mutation that affects Pixtl gene function in all tissue types is most likely to be at which of the following genetic loci?
+Promoter
+
+In sticklebacks, which of the following is most likely to occur if the jaw enhancer is disabled instead of the hindlimb enhancer?
+The jaw does not develop normally, but a pronounced pelvic spine does develop because the Pixtl gene is expressed in the develiping pelvis but not in the developing jaw.
+
+Which of the following describes a possible selective mechanism to explain why freshwater sticklebacks typically have reduced pelvic spines?
+Reduced pelvic spines increase the likelihood of escaping predators in freshwater environments.
+
+Mutations in DNA are usually caused by chemical or radiation damage to DNA molecules, followed by imperfect repair of the damage. Immediately after this kind of imperfect repair, there may be a mismatched base pair in the DNA. The illustration below shows an example of a mismatch, with the relevant pair bases in bold.
+B
+
+Which of the processes can cause an increase in the rate of transcription?
+Acetylation of histone proteins
+
+What is the baSis for the difference in how the leading and lagging strands in DNA molecules are synthesized?
+DNA polymerase can join new nucleotides only to the 3' end of a growing strand
+
+The segment of DNA shown below has restriction sites I and II, which create restriction fragments a, b, and c. Which of the following gels produced by electrophoresis would represent the separation and identify of these fragments?
+B
+
+Based on the universal genetic code,which of the following represents the correct polypeptide that will result from translation of the mRNA molecule shown, beginning with the first available start codon
+ASp-Arg-Met-Val-Thr-Lys-Phe-Gly-His
+
+A researcher examining a root tip observes a plant cell with condensed sister chromatids, kinetochores with attached microtubules, and individual chromosomes that are aligned at the equatorial plate of the cell. Which of the following best describes what the next process will be in the cell?
+Paired chromatids will separate, and the new daughter chromosomes will move toward opposite poles of the cell.
+
+In deer, fur length is controlled by a single gene with two alleles. When a deer homozygous for long fur is crossed with a deer homozygous for short hair, the offspring have medium length fur. If these offspring with medium hair mate, what percentage of their offspring will have long fur
+25%
+
+Which of the following would be discussing in an bioethics class concerning the test?
+How important are the results of the test to the couple's health, since they already know they have HC?
+
+DNA replication occurs
+During the S phase of the cell cycle
+
+X-linked conditions are more common in men than in women because
+Men need to inherit only one copy of the recessive allele for the condition to be fully expressed
+
+All of the following contribute to genetic recombination EXCEPT
+Gene Linkage
+
+The restoration of the diploid chromosome number after having in meiosis is due to
+Fertilization
+
+An allele on the X chromosome is responsible for the recessive trait of red-green color blindness in humans. The daughter of a woman who is color-blind has normal vision and marries a man who is color-blind. This couple has a son, what is the probability that the son will be color blind.
+1/2
+
+A new mutation that arose in one copy of gene X in a somatic cell resulted in the formation of a tumor. Which of the following pieces of evidence best describes how the new mutation directly caused the tumor?
+Protein X normally stimulates cell division and the mutation created an overactive version of protein X
+
+Which of the following best describes the cells that result from the process of meiosis in mammals?
+They are genetically different from the parent cell
+
+Offspring from this cross are expected to exhibit a 1:1:1:1 phenotypic ratio
+TtRrr x ttrr
+
+All offspring from this cross are expected to exhibit both dominant traits
+TTRr x TtRR
+
+This cross is an example of a dihybrid cross in which both parents are heterozygous
+TtRr x TtRr
+
+Which of the following can be diagnosed by examining a karyotype of an individual's white blood cells?
+Down Syndrome
+
+The father must have which of the following blood types
+Either AB or A
+
+If the father has blood type AB, which of the following statements is correct about the mother?
+She contributes an i allele which is recessive to the father's I^A allele.
+
+Which of the following best describes the parents in a testcross
+One individual has the dominant phenotype and the other has the recessive phenotype
+
+In the pedigree above, circles represent females, squares represent males, and shaded figures represent individuals expressing a specific trait. The expression of this trait is most likely due to which of the following?
+Autosomal recessive inheriance
+
+If 2n=48 for a particular cell, then the chromosome number in each cell after meiosis would be
+24
+
+Hydrangea macrophylia...Which of the following will provide the most direct evidence that flower color in H. macro is due primarily to soil conditions
+Growing cutting from the same H. macro plant under controlled conditions that vary only with regard to soil pH
+
+A genetic counselor...Which of the following questions will best help the genetic counselor to evaluate the risk of the young man developing Huntington's disease and transmitting to his children?
+Were your parents or grandparents ever diagnosed with Huntington's disease?
+
+Within a forest ecosystem, there is a large amount of diversity among members of warbler species. Of the following stages of meiosis illustrated for a typical cell, which contributes most to diversity among the warblers?
+C
+
+In Drosphilia melanogtaster...Which of the following best explains the observed results of the cross?
+The traits of body color show complete dominance over the traits of wing shape
+
+Undersea landslides...Which of the following best predicts how the population will be affected by the landslide?
+The reduced population will likely have allelic frequencies that are different from the initial population.
+
+Scientists have found that existing populations of a certain species of amphibian are small in number, lacking genetic diversity, and separated from each other by wide areas of dry land. Which of the following human actions is most likely to improve the long-term survival of the amphibians?
+Building ponds in the areas of dry land to promote interbreeding between the separated populations
+
+A group of mice was released into a large field to which no other mice had access ...Which of the following best explains the change in frequency distribution of fur color phenotypes in the mouse population, as shown in the figures above?
+The field was composed of light-colored soil and little vegetation, affording gray mice protection from predators
+
+Lobe-finned fishes were present in the oceans of the world approx... Which of the following is the best plan for testing the hypothesis
+Comparing the arrangements of bones in the fins of lobe-finned fishes and limbs of the earliest tetrapods
+
+Ellis-van Creveld syndrome...Which of the following best describes the difference between the frequency of the allele that causes the syndrome in the general population and the frequency of the allele in the isolated population?
+The frequency of the Ellis-van Creveld allele 0.0447 in the isolated population and 0.0026 in the general population, which suggests that genetic drift has occurred in the isolated population
+
+Which of the following statements best expresses the concept of punctuated equilibrium?
+Evolution occurs in rapid bursts of change alternating with long periods in which species remain relatively unchanged
+
+In a small group of people... blue skin .... The unusually high frequency of "blue skin" in the area is an example of
+Genetic Drift
+
+All of the following conditions would result in a change in the frequency of a specific allele in a population EXCEPT
+Random mating in a large population
+
+Human intestines....The same evolutionary modification that causes increased susceptibility to torn mesenteries is responsible for
+Back and knee problems
+
+On a large volcanic island...Which of the following observations best supports the prediction that speciation will occur within the existing plant population?
+Lava has separated the population into two areas: an upland forest and a lowland marsh.
+
+The pesticide DDT was widely used in the 1940s as a method of insect control...Which of the following best explains the observations concerning DDT resistance in mosquitoes?
+Natural selection favors DDT-resistant mosquitoes that are already present in a population when DDT exposure occurs
+
+A species of snail lives....Which of the following best explains the observed distribution pattern of the snails?
+Dark-colored snails absorb more solar energy and so survive more readily in the colder northern weather
+
+Based on the model of speciation presented, which of the following describes the most likely consequence to the populations over time?
+Hybrid individuals are less likely to pass their genetic information on to subsequent generations
+
+Which of the following best describes the reason for excluding hybrid males when calculating the allele frequencies of two interbreeding populations at the intermediate stage of speciation?
+Sterile individuals make no genetic contribution to the next generation
+
+In a separate investigation....The experimental results are most consistent with which of the stages that are depicted in the model
+Intermediate stage
+
+Using the model of speciation and applying it to a different population, which of the following outcomes is most consistent for a different species in which the males are homogametic and the females are heterogametic?
+Sterility would appear in females before appearing in males
+
+Two populations of a species of squirrel are geographical isolated from each other....Which of the following is the best prediction of how the new disease will affect the two populations
+The smaller population will be more affected than will the larger population, because the smaller population has less genetic variation than the larger population has
+
+Over evolutionary time....How can natural selection account for these losses?
+Under particular circumstances that persisted for long periods, each of these structures presented greater costs than benefits
+
+In a particular bird species, individuals with average-sized wings survive severe storms more successfully than other birds in the same population with longer or shorter winds. This illustrates:
+Stabilizing selection
+
+The B blood type allele probably originated in Asia and subsequently spread to Europe and other regions of the world. This is an example of:
+Gene flow
+
+The table shows the changes in allele frequencies of a specific gene in 2 populations of randomly mating small mammals...Which of the following is the most reliable conclusion that can be drawn from analysis of the data above?
+Genetic drift has occurred in population 1
+
+Cladogram
+Arg to leuc at position x on the cladogram
+
+In his transformation experiments, what did Griffith observe?
+mixing a heat-killed pathogenic strain of bacteria with a living nonpathogenic strain can convert some of the living cells into the pathogenic form
+
+what is meant by the description "antiparallel" regarding the strands that make up DNA?
+the 5' to 3' direction of one strand runs opposite to the 5' to 3' direction of the other strand
+
+the processes illustrated in the models depicted above all result in which of the following?
+an increase in genetic diversity
+
+cytosine makes up 38% of the nucleotides in a sample of DNA from an organism. Approximately what percentage of the nucleotides in this sample will be thymine?
+12%
+
+the sequences for two short fragments of DNA are shown above. which of the following is one way in which these two segments would differ?
+segment 1 would denature faster during PCR heating than segment 2 because A-T base pairs have two hydrogen bonds whereas C-G base pairs have three
+
+which of the following unwinds and unzips the DNA strands during replication?
+helicase
+
+which enzyme catalyzes the elongation of a DNA strand in the 5' ------> 3' direction?
+DNA polymerase III
+
+which of the following helps to stabilize mRNA by inhibiting its degradation and protects mRNA as it leaves and travels outside of the nucleus>
+5' G cap and poly A tail
+
+the TATA sequence is found only several nucleotides away from the start site of transcription. This most probably relates to which of the following?
+the physical spacing necessary for RNA polymerase and transcriptions factors to bind to the DNA
+
+which of these mutations would be most likely to have a harmful effect on an organism?
+a single nucleotide insertion downstream of and close to the start codon
+
+sickle-cell anemia is associated with a mutation in the gene encoding the beta subunit of hemoglobin that results in a change from glutamic acid to valine at position #6. all the other amino acids are identical to a normal hemoglobin protein. based on the information above, which of the following mutations is the most likely cause of sickle-cell anemia?
+a single base-pair substitution in the gene encoding the beta subunit
+
+muscle cells differ from nerve cells mainly because they
+express different genes
+
+which of the following best describes how sticklebacks in the same population with identical copies of Pux 1 gene can still show phenotypic variation in the pelvic spine character?
+expression of the pux 1 gene can be affected by mutations at another genetic locus
+
+in stickle backs which of the following is most likely to occur if the jaw enhancer is disabled instead of the hindlimb enhancer?
+neither the jaw nor a pronounced pelvic spine develop normally because their is no Pux 1 gene expression in either developing tissue
+
+the trp operon is coordinately regulated group of genes that are required for tryptophan biosynthesis in E. coli bacteria. based on the figure above, which of the following correctly describes the regulation of the trp operon?
+in the presence of tryptophan, the repressor is active and binds to the trp operator, preventing RNA polymerase from transcribing the operon
+
+plates that have only ampicillin-resistant bacteria growing include which of the following?
+IV only
+
+based on the experiment above, which of the following best explains why there is no growth on plate II?
+the initial E. coli culture was not ampicillin-resistant
+
+based on the experiment above, which of the following statements best explains why there are fewer colonies on plate IV than on plate III?
+not all E coli cells are successfully transformed with the ampicillin resistance gene
+
+why are viruses referred to as obligate parasites?
+they cannot reproduce outside of a host cell
+
+the cells lining the respiratory tract of pigs have receptors for both acian and human influenza viruses. based on the model above, which of the following best describes the origin of the new strain human influenza virus?
+the new viral strain inherited a combination of genetic material from both avian influenza and human influenza virus
+
+the pedigree suggests that the gene is on a nuclear chromosome, and not on mutochondrial DNA because
+maternal mitochondrial mutations are inherited by all of a mothers offspring
+
+in 1997 dolly the sheep was cloned. which of the following processes was used?
+fusion of an adult cell's nucleus with a de-nucleated sheep egg, followed by incubation in a surrogate female
+
+what is the hierarchy of biological organization starting with the smallest living things?
+organelles-cells-tissue-organ systems and organs- organisms- populations- communities- ecosystems- biomes -biosphere
+
+what are the hierarchical organization of life classification categories?
+domain- kingdom- phylum- class- order- family- genus- species
+
+what are the 4 properties of water that make it so beneficial towards life?
+-cohesive behavior: water sticks to water
+-ability to moderate temperatures
+-expansion upon freezing
+-versatility as a solvent: dissolves things
+
+DNA replication occurs
+A. during the S phase of the cycle.
+
+An allele on the X chromosome is responsible
+for the recessive trait of red-green color blindness
+in humans. The daughter of a woman who is
+color-blind has normal vision and marries a man
+who is color-blind. This couple has a son, what is
+the probability that the son will be color-blind?
+C. 1/2
+
+Which of the following depicts the most
+probable pathway of processing and
+packaging a secretory protein within a
+eukaryotic cell?
+B. Rough endoplasmic reticulum → Golgi body → secretory vesicles → cell membrane
+
+Which of the following best describes the function of the coenzymes NAD+ and FAD in eukaryotic cellular respiration?
+E. They accept electrons during oxidation-reduction reactions.
+
+A group of people whose ancestors immigrated to North America 200 years ago have certain allele frequencies that differ significantly from those in surrounding populations in the United States. Which of the following is the most likely explanation for the difference in allele frequencies?
+C. Reproductive isolation
+
+There is strong evidence that two species of
+cliff-dwelling birds have nested in the same
+environment and fed in the same water for
+thousands of years, with each having stable
+population sizes. Based on this information,
+which of the following statements is the best
+conclusion?
+D. The two birds have different ecological niches that allow coexistence.
+
+When the dorsal lip of the blastopore is removed
+from one developing embryo and successfully
+implanted into a different location in a second
+embryo of the same species at the same
+developmental stage, which of the following
+is the most likely result?
+A. Two neural tubes form in the second embryo.
+
+In the pedigree above, circles represent females, squares represent males, and shaded figures represent individuals expressing a specific trait. The expression of this trait is most likely due to which of the following?
+[http://i.imgur.com/bqBh9ia.png]
+D. Autosomal recessive inheritance
+
+Which of the following normally leads to the
+production of functional messenger RNA in
+eukaryotic cells?
+B. The removal of portions of RNA known as intervening sequences (introns)
+
+Offspring from this cross are expected to exhibit a 1 : 1 : 1 : 1 phenotypic ratio.
+D. TtRr x ttrr
+
+Offspring from this cross are expected to exhibit a 3 : 3 : 1 : 1 phenotypic ratio.
+E. TtRr x ttRr
+
+All offspring from this cross are expected to exhibit both dominant traits.
+C. TTRr x TtRR
+
+This cross is an example of a dihybrid cross in which both parents are heterozygous.
+B. TtRr x TtRr
+
+Depicts the rate of an enzyme-catalyzed reaction
+from low substrate concentrations to saturating
+substrate concentrations.
+[http://i.imgur.com/VMUu8uP.png]
+C. (Gradually curves upwards then plateaus)
+
+Assimilation of nitrate by photosynthetic
+eukaryotes.
+[http://i.imgur.com/cfL551G.png]
+D. NO3- > Green plants
+
+Nitrogen fixation by prokaryotes.
+[http://i.imgur.com/cfL551G.png]
+A. N2 Nitrogen in atmosphere > Bacteria
+
+Denitrification by anaerobic prokaryotes.
+[http://i.imgur.com/cfL551G.png]
+E. NO3- > Bacteria
+
+Which of the following statements best explains
+why oxygen is taken up more rapidly at 12° C than at 20° C?
+[http://i.imgur.com/zn5Nz0J.png]
+E. The loss of body heat causes muscles to relax and require more oxygen.
+
+Which of the following hypotheses is best
+supported by the results of this experiment?
+[http://i.imgur.com/zn5Nz0J.png]
+E. Rats lose more heat per gram of tissue than do mice.
+
+Interpretation of the data supports which of the
+following statements?
+[http://i.imgur.com/JyV4F6b.png]
+E. Mammals are more closely related to reptiles than they are to fish.
+
+Which of the following phylogenetic trees can be
+supported by the data?
+[http://i.imgur.com/JyV4F6b.png]
+[http://i.imgur.com/0UD4XHR.png]
+D. I and II only
+
+Observation of the direction of the nerve impulse
+supports the conclusion that fiber X is
+[http://i.imgur.com/8UIReMc.png]
+A. an axon
+
+Which of the following statements is true about
+the neurotransmitter used to transmit the impulse at the synapse?
+[http://i.imgur.com/8UIReMc.png]
+C. It is released by fiber X when an impulse travels the length of fiber X.
+
+The experimental design allows testing of which
+of the following?
+[http://i.imgur.com/O2I9dtK.png]
+D. The effects of both temperature and oxygen
+on germination
+
+Germination would be expected to occur first in
+which beaker?
+[http://i.imgur.com/O2I9dtK.png]
+A. 1
+
+Comparing results from which of the following
+pairs of beakers would help determine if enzymes are necessary for germination?
+[http://i.imgur.com/O2I9dtK.png]
+A. 1 & 2
+
+Enzymes with their highest activity at an alkaline
+(basic) pH are represented by which of the
+following graphs?
+[http://i.imgur.com/fYP9jXD.png]
+B. II only
+
+Graphs representing enzymes sensitive to changes in pH include which of the following?
+[http://i.imgur.com/fYP9jXD.png]
+E. I, II, and II only
+
+The most likely explanation for the results shown in Graph I is that
+[http://i.imgur.com/fYP9jXD.png]
+A. pH affects the shape of the active site of the enzyme
+
+DNA replication occurs
+during the S phase of the cell cycle
+
+An allele on the X chromosome is responsible
+for the recessive trait of red-green color blindness
+in humans. The daughter of a woman who is
+color-blind has normal vision and marries a man
+who is color-blind. This couple has a son, what is
+the probability that the son will be color-blind?
+1/2
+
+Which of the following depicts the most
+probable pathway of processing and
+packaging a secretory protein within a
+eukaryotic cell?
+Rough endoplasmic reticulum - Golgi body - Secretory vesicles - cell membrane
+
+Which of the following best describes the function
+of the coenzymes NAD+ and FAD in eukaryotic
+cellular respiration?
+They accept electrons during oxidationreduction
+reactions.
+
+A group of people whose ancestors immigrated to
+North America 200 years ago have certain allele
+frequencies that differ significantly from those in
+surrounding populations in the United States.
+Which of the following is the most likely
+explanation for the difference in allele
+frequencies?
+Reproductive isolation
+
+There is strong evidence that two species of
+cliff-dwelling birds have nested in the same
+environment and fed in the same water for
+thousands of years, with each having stable
+population sizes. Based on this information,
+which of the following statements is the best
+conclusion?
+The two birds have different ecological
+niches that allow coexistence
+
+When the dorsal lip of the blastopore is removed
+from one developing embryo and successfully
+implanted into a different location in a second
+embryo of the same species at the same
+developmental stage, which of the following
+is the most likely result?
+Two neural tubes form in the second embryo
+
+In the pedigree above, circles represent females, squares represent males, and shaded figures represent
+individuals expressing a specific trait. The expression of this trait is most likely due to which of the following?
+Autosomal recessive inheritance
+
+Which of the following normally leads to the
+production of functional messenger RNA in
+eukaryotic cells
+The removal of portions of RNA known as
+intervening sequences (introns)
+
+Offspring from this cross are expected to exhibit a
+1 : 1 : 1 : 1 phenotypic ratio
+TtRr x ttrr
+
+Offspring from this cross are expected to exhibit a
+3 : 3 : 1 : 1 phenotypic ratio.
+TtRr x ttRr
+
+All offspring from this cross are expected to exhibit
+both dominant traits
+TTRr x TtRR
+
+This cross is an example of a dihybrid cross in
+which both parents are heterozygous
+TtRr x TtRr
+
+Depicts the rate of an enzyme-catalyzed reaction
+from low substrate concentrations to saturating
+substrate concentrations
+exponential curve goes up
+
+The contents of which dialysis tube are initially
+isotonic to the distilled water in the beaker?
+5
+
+A net movement of water into the beaker occurs
+in which of the following dialysis tubes
+6
+
+To model a plant cell, a permeable, nonflexible
+case is placed around each piece of dialysis
+tubing. The greatest pressure potential will
+develop within dialysis tube number
+4
+
+The mRNA transcribed from the DNA would read
+5' AUC AAG UUU GGC GCA UUG UAA 3'
+
+Which of the following modifications of the DNA
+would produce the greatest change in the primary
+structure of the polypeptide chain
+Deleting the first T in the second triplet
+
+In which of the following would there NOT be a
+change in the amino acid sequence of the peptide
+coded for by this DNA
+Changing 3' AAA 5' to read 3' AAG 5'
+
+Which of the following statements best explains
+why oxygen is taken up more rapidly at 12°C than
+at 20°C?
+At 12°C a higher rate of oxygen consumption
+is required to maintain a high body
+temperature.
+
+Which of the following hypotheses is best
+supported by the results of this experiment
+Metabolic rate per gram of tissue is higher
+in smaller mammals
+
+Interpretation of the data supports which of the
+following statements
+Mammals are more closely related to reptiles
+than they are to fish
+
+Which of the following phylogenetic trees can be
+supported by the data?
+I and II only
+
+Observation of the direction of the nerve impulse
+supports the conclusion that fiber X is
+an axon
+
+Which of the following statements is true about
+the neurotransmitter used to transmit the impulse
+at the synapse
+It is released by fiber X when an impulse
+travels the length of fiber X
+
+The experimental design allows testing of which
+of the following?
+The effects of both temperature and oxygen
+on germination
+
+Germination would be expected to occur first in
+which beaker?
+1
+
+Comparing results from which of the following
+pairs of beakers would help determine if enzymes
+are necessary for germination
+1 and 2
+
+Enzymes with their highest activity at an alkaline
+(basic) pH are represented by which of the
+following graphs
+II only
+
+Graphs representing enzymes sensitive to changes
+in pH include which of the following
+I, II, and III only
+
+The most likely explanation for the results shown
+in Graph I is that
+pH affects the shape of the active site of the
+enzyme
+
+helicase
+enzymes that untwist the double helix at the replication forks, separating the two parent strands
+
+c (translation)
+involved the interaction of aminoacyl-tRNA (charged tRNA) and the A site of a ribosome
+
+c (translation)
+the synthesis of polypeptides from the genetic information coded in mRNA
+
+a (histone acetylation)
+the attachment of groups to particular amino acids of specific proteins; this is thought to be an important control mechanism for gene expression because it loosens chromatin allowing transcription
+
+e (transcription)
+the synthesis of RNA from a DNA template
+
+e (to add nucleotides to the 3' end of a growing DNA strand)
+what is the function of DNA polymerase
+
+d (exons)
+After eukaryotic transcription takes place, mRNA undergoes several modifications before leaving the nucleus to take part in translation. One of these is the cutting out of nonessential sections of mRNA and the subsequent splicing together of mRNA necessary for the final functional molecule. Which of the following mRNA sections are spliced together into the finished mRNA molecule
+
+b (a single nucleotide insertion downstream of, and close to, the start of the coding sequence)
+Which of the following mutations would be most likely to have a harmful effect on an organism
+
+c (5' AUC AAG UUU GGC GCA UUG UAA 3')
+TRIPLET NUMBER: The mRNA transcribed from the DNA would read
+
+d (deleting the first T in the second triplet)
+Which of the following modification of the DNA would produce the greatest change in the primary structure of the polypeptide chain
+
+d (changing 3' AAA 5' to read 3' AAG 5')
+in which of the following owuld ther not be a change in the amino acid sequence of the peptide coded for by this DNA
+
+b (introns are cut out before mRNA leaves the nucleus)
+which of the following is not true of RNA processing
+
+e (it extends from one end of a tRN molecule)
+which of the following is false regarding a codon
+
+d (unwinding the double helix)
+what is the function of topoisomerase
+
+a (complementary to the corresponding mRNA codon)
+the anticodon of a particular tRNA molecule is
+
+b (DNA)
+which component is not directly involved in translation
+
+Which of the following messenger RNA sequences could code for both of the two amino acid sequences above, simply by a shift in the reading frame?
+. . . AGCAGCAGCAGC . . .
+
+Which of the following DNA strands will code for the amino acid sequence shown above?
+. . . CCTTCGCCT . . .
+
+In the diagrams below, the horizontal line represents the lac operon and the bent arrow represents the transcription start site of the lac operon. Which of the following diagrams best represents the scenario in which lactose is available to the cell and glucose is absent?
+Lactose binded to repressor protein; repressor protein is not bound to the operon; RNA polymerase is synthesizing mRNA
+
+The p53 protein regulates a cellular response to DNA damage. Based on the diagram above, which of the following best describes the role of p53 in the response to DNA damage?
+Phosphorylated p53 stimulates transcription of p21, and the the resulting p21 protein suppressed cell division until DNA damage is repaired.
+
+Analysis of DNA sequences from two individuals of the same species results in a greater estimate of genetic variability than does analysis of amino acid sequences from the same individuals because
+different DNA sequences can code for the same amino acid
+
+Erwin Chargaff investigated the nucleotide composition of DNA. He analyzed DNA from various organisms and measured the relative amounts of adenine (A), guanine (G), cytosine (C), and thymine (T) present in the DNA of each organism. Table 1 contains a selected data set of his results. Which of the following statements best explains the data set?
+Since the %A and the %T are approximately the same in each sample, adenine and thymine molecules must pair up in a double-stranded. DNA molecule. Correct. The percentages of adenine and thymine are approximately the same because adenine aligns with thymine in double-stranded DNA and they are therefore present in each organism in the same amounts.
+
+A model that represents a process occurring in a cell of a particular organism is shown in Figure 1. Which of the following correctly explains the process shown in Figure 1 ?
+Initiation of transcription is occurring because a strand of RNA is being produced from a DNA template strand. Correct. Transcription is occurring. Since uracil (U) is present in the new strand being formed, RNA is being formed from a DNA template.
+
+Cells that contain only circular chromosomes are most probably which of the following?
+Bacterial cells
+
+A model of a process involving nucleic acids is shown in Figure 1. Which of the following best explains what process is represented in Figure 1 ?
+New DNA strands are being synthesized in the 5' to 3' direction from their DNA templates. Correct. New DNA strands are synthesized in the 5' to 3' direction from the DNA template, and this is depicted in the diagram. The leading strand is being synthesized on the bottom, while the lagging strand is being synthesized in fragments on top.
+
+Figure 1 shows some relevant details of a model of how a deoxynucleotide, in this case dTMP, is added to a growing strand of DNA. The features of this model provide evidence for which explanation of why all growing strands are synthesized in a 5′ to 3′ direction?
+The phosphate group, attached to the 5′ carbon of the dTMP, forms a covalent bond with the oxygen atom attached to the 3′ carbon of the growing strand. Correct. Synthesizing a growing strand requires the interaction of the phosphate groups found at the 5′5′ location on the new deoxynucleotide with the OH group attached to the 3′3′ carbon of the existing end of the growing strand. These specific interactions and the release of diphosphate explain the directionality requirement for a growing strand of DNA.
+
+Enzyme used during replication to attach Okazaki fragments to each other
+DNA ligase.
+
+Enzyme used in the synthesis of mRNA
+RNA polymerase
+
+Enzyme used to position nucleotides during DNA replication
+DNA polymerase
+
+Genetic engineering techniques can be used when analyzing and manipulating DNA and RNA. Scientists used gel electrophoresis to study transcription of gene L and discovered that mRNA strands of three different lengths are consistently produced.
+Pre-mRNA of gene L is subject to alternative splicing, so three mRNA sequences are possible. Correct. Excision of different introns and splicing and retention of different exons can generate different versions of the resulting mRNA, which may have different lengths.
+
+A scientist is using an ampicillin-sensitive strain of bacteria that cannot use lactose because it has a nonfunctional gene in the lac operon. She has two plasmids. One contains a functional copy of the affected gene of the lac operon, and the other contains the gene for ampicillin resistance. Using restrictions enzymes and DNA ligase, she forms a recombinant plasmid containing both genes. She then adds a high concentration of the plasmid to a tube of the bacteria in a medium for bacterial growth that contains glucose as the only energy source. This tube (+) and a control tube (-) with similar bacteria but no plasmid are both incubated under the appropriate conditions for growth and plasmid uptake. The scientist then spreads a sample of each bacterial culture (+ and -) on each of the three types of plates indicated below. If the scientist had forgotten to use DNA ligase during the preparation of the recombinant plasmid, bacterial growth would most likely have occurred on which of the following?
+1 and 4 only
+
+Lactose digestion in E. coli begins with its hydrolysis by the enzyme β-galactosidase. The gene encoding β-galactosidase, lacZ, is part of a coordinately regulated operon containing other genes required for lactose utilization.
+Which of the following figures correctly depicts the interactions at the lac operon when lactose is NOT being utilized? (The legend below defines the shapes of the molecules illustrated in the options.)
+No RNA polymerase or lactose present. The repressor protein is bound to the operator portion of the operon. This option is correct because the lac operon is an inducible operon, which means that the regulatory system is turned off until lactose or its analog turns it on. The mechanism for preventing its transcription is the binding of a repressor protein to the operator region.
+
+Maximal transcription of the lac operon requires
+the presence of cyclic AMP and lactose
+
+Which of the following correctly explains where DNA replication will begin on the strand oriented 5'→3', reading from left to right?
+DNA replication will be initiated immediately to the left of the RNA, since DNA polymerase requires an RNA primer. Correct. The RNA primer marks the beginning of DNA synthesis in the 5'5′ to 3'3′ direction. There is only one RNA primer present on the top strand in the diagram so DNA replication will begin there.
+
+Mutations in DNA are usually caused by chemical or radiation damage to DNA molecules, followed by imperfect repair of the damage. Immediately after this kind of imperfect repair, there may be a mismatched base pair in the DNA. The illustration below shows an example of a mismatch, with the relevant pair bases in bold. Which of the following best represents the DNA of the two daughter cells produced when a bacterial cell with this particular mismatch replicates its DNA and divides?
+Mutant- A and T; Normal- G and C
+
+Figure 1 represents a metabolic process involving the regulation of lactose metabolism by E. coli bacteria. Lactose is utilized for energy by E. coli when glucose is not present. Allolactose is an isomer of lactose that is in the environment of these bacteria when lactose is present. The CAP site prevents the binding of RNA polymerase when glucose is present in the environment. The lacZ, lacY, and lacA genes code for proteins needed for lactose metabolism. Which is a scientific claim that is consistent with the information provided and Figure 1 ?
+When bound to the operator, the repressor protein prevents lactose metabolism in E. coli. Correct. When the repressor protein is bound to the operator, the lac operon is turned off and the genes for lactose metabolism cannot be transcribed.
+
+Process in which a protein is assembled at a ribosome
+Translation
+
+Process in which RNA is produced by using a DNA template
+Transcription
+
+Figure 1 represents part of a process that occurs in eukaryotic cells. There are untranslated regions (UTR) in this sequence. Which of the following best explains the process represented by Figure 1 ?
+The enzyme-regulated processing of pre‑mRNA into mature mRNA. Correct. The removal of introns and the addition of a 3′ poly‑AA tail and a 5′GTP cap are associated with mRNA processing in eukaryotic cells, and the diagram reflects these changes.
+
+Which of the following best describes an event during step 2 in the simplified model above?
+Noncoding sequences are removed from a newly synthesized RNA molecule.
+
+Figure 1 represents part of a process essential to gene expression. Which of the following best explains what strand X represents?
+The antisense strand, because it is serving as a template. Correct. Strand X is serving as the template strand for the synthesis of a complementary strand of RNA. The template strand is also called the antisense strand.
+
+Based on the universal genetic code, which of the following represents the correct polypeptide that will result from translation of the mRNA molecule shown, beginning with the first available start codon?
+Met−Val−Thr−Lys−Phe−Gly−His
+
+The following the DNA sequence is a small part of the coding (nontemplate) strand from the open reading frame of β-hemoglobin gene. Given the codon chart listed below, what would be the effect of a mutation that deletes the G at the beginning of the DNA sequence?
+The reading frame of the sequence would shift, causing a change in the amino acid sequence after that point.
+
+The mRNA transcribed from the DNA would read
+5' AUC AAG UUU GGC GCA UUG UAA 3'
+
+Which of the following modifications of the DNA would produce the greatest change in the primary structure of the polypeptide chain?
+Deleting the first T in the second triplet
+
+The figure above depicts the DNA-protein complex that is assembled at the transcriptional start site of gene X when the expression of gene X is activated in liver cells. Previous studies have shown that gene X is never expressed in nerve cells. Based on the diagram, which of the following most likely contributes to the specific expression pattern of gene X ?
+The activator is a sequence-specific DNA-binding protein that is present in some tissues but not in other tissues.
+
+Nuclear pores regulate the passage of substances into and out of the nucleus. Antibodies such as mAb414 have been used to inhibit the movement of substances through the nuclear pores of rat liver cells. Scientists cultured rat liver cells (eukaryotic) and bacteria cells (prokaryotic) in separate dishes with radioactively labeled amino acids. A specific gene in both cell types was engineered to synthesize identical polypeptide chains, and translation of this gene was measured. The procedure was repeated with mAb414 (the inhibitor) added to each of the two cell cultures, and translation was monitored again.
+Which of the following sets of graphs best summarizes the results of the experiments?
+Prokaryotic- goes up and constant; eukaryotic- stay the same/ flat (horizontal line). Correct. In eukaryotes, transcription and translation occur at different areas in the cell, whereas in prokaryotes, they occur simultaneously. In the experimental dish with the eukaryotes, the drug inhibited the translocation of mRNA to the cytoplasm, thereby preventing the translation, so no polypeptide chain was formed. However, in the prokaryotes, with no nucleus and both processes occurring simultaneously, translation occurred and the polypeptide chain was formed.
+
+tRNA molecules deliver amino acids to ribosomes where the amino acid next
+is covalently bonded to a growing polypeptide
+
+When DNA replicates, each strand of the original DNA molecule is used as a template for the synthesis of a second, complementary strand. Which of the following figures most accurately illustrates enzyme-mediated synthesis of new DNA at a replication fork?
+Discontinuous replication on top strand (moving away from the fork) and continuous replication on bottom strand (moving towards the fork). This option is correct. It demonstrates an understanding of the structure of DNA and the process of replication. The two strands of the DNA molecule run antiparallel to each other; the 5' end of one strand pairs with the 3' end of the other strand. Replication is semi-conservative, with each strand serving as the template for the creation of new complementary strands. Helicase unzips the DNA molecules between the hydrogen bonds connecting the two strands. DNA polymerase "reads" each template strand in the 3'-to-5' direction and assembles the growing DNA chain in a 5'-to-3' direction. The "leading" strand is produced continuously, but on the "lagging" strand, Okazaki fragments are produced and are connected by ligase to produce the daughter molecule.
+
+Which of the following is most likely to create genetic variation in a population?
+DNA polymerase errors during replication
+
+The diagram above represents a segment of the E. coli chromosome that contains the lacI gene and part of the lac operon, a coordinately regulated set of genes that are required for the metabolism of lactose. The presence of lactose, which causes the repressor to be released from the operator, results in increased transcription of the lac operon. Which of the following is the most likely consequence of a mutation at the operator locus that prevents binding of the repressor protein?
+Beta-galactosidase will be produced, even in the absence of lactose.
+
+Which of the following normally leads to the production of functional messenger RNA in eukaryotic cells?
+The removal of portions of RNA known as intervening sequences (introns)
