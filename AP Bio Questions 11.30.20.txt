@@ -5544,3 +5544,1493 @@ Beta-galactosidase will be produced, even in the absence of lactose.
 
 Which of the following normally leads to the production of functional messenger RNA in eukaryotic cells?
 The removal of portions of RNA known as intervening sequences (introns)
+1) At the end of glycolysis, the original carbons of the glucose molecule form
+C) two molecules of pyruvate.
+
+2) The anaerobic breakdown of glucose is called
+E) fermentation.
+
+3) If glucose is metabolized under completely anaerobic conditions, pyruvate
+E) is converted by fermentation to lactate or CO2 + ethanol.
+
+4) All of the following are true statements about ATP EXCEPT that it is
+A) synthesized only within mitochondria.
+
+5) Which of the following statements is TRUE of glycolysis?
+E) It produces a net gain of ATP.
+
+6) The main function of cellular respiration is to produce
+D) ATP.
+
+7) During aerobic respiration in cells, about ________ of the chemical energy in a metabolized glucose
+molecule is used for ATP production and the rest is released as heat.
+A) 40% B)
+
+8) If no oxygen is available to a cell, then the net ATP production resulting from the metabolism of a
+single glucose molecule is
+A) 2 ATP molecules.
+
+9) Which event occurs in the fluid portion of the cytoplasm of a cell undergoing glucose metabolism?
+B) Glycolysis
+
+10) Where does the production of pyruvate occur during glycolysis?
+D) Cytoplasmic fluid
+
+11) During glycolysis, what is the net gain of ATP molecules produced from one glucose molecule?
+D) 2
+
+12) What molecule is common to both C3 photosynthesis and the process of glycolysis?
+C) G3P
+
+13) Which kind of metabolic poison would interfere with the glycolysis stage of cellular respiration?
+E) An agent that closely mimics the structure of glucose but is not capable of being metabolized
+and broken down
+
+14) The end product of glycolysis is
+B) two pyruvate molecules.
+
+15) During glycolysis in the energy-investing stage, two ATP molecules are "spent" to convert glucose
+to the highly reactive molecule
+A) fructose bisphosphate.
+
+16) In the glucose activation stage of glycolysis, glucose receives a phosphate group from ATP. This
+reaction is
+A) endergonic.
+
+17) For bacteria to continue growing rapidly when they shift from an aerobic environment to an
+anaerobic environment, they must
+A) increase the rate of glycolysis.
+
+18) During the glucose activation stage of glycolysis
+D) two ATP molecules are used to make one fructose bisphosphate molecule.
+
+19) The overall products of glycolysis are
+D) ATP, NADH, and pyruvate.
+
+20) During cellular respiration, the pyruvate produced in glycolysis is
+D) the source of electrons for NADH and FADH2.
+
+21) During which step of aerobic respiration is oxygen used?
+D) Electron transport chain (ETC)
+
+22) We breathe more heavily during exercise because our cells
+B) are producing more CO2 and need to get rid of it.
+
+23) Some of the CO2 that is exhaled during breathing is created during
+C) the conversion of pyruvate to acetyl CoA.
+
+24) The metabolic breakdown of one molecule of glucose generates the greatest amount of ATP energy
+during
+A) ETC.
+
+25) How many CO2 molecules are generated from each pyruvate molecule that enters the
+mitochondrial matrix?
+C) Three
+
+26) To be able to continue, each turn of the Krebs cycle must regenerate which of the following as a
+final product?
+D) Oxaloacetate
+
+27) Which of the following is an example of an electron-carrier molecule?
+D) NADH
+
+28) In aerobic cellular respiration, the ETC receives electrons directly from
+A) FADH2 only.
+B) ATP only.
+
+D) NADH only.
+E) NADH and ATP.
+C) NADH and FADH2.
+
+29) In the mitochondrial matrix reactions, the original carbons in pyruvate
+C) end up in molecules of CO2.
+
+30) Chemiosmosis in mitochondria directly results in the synthesis of
+A) ATP.
+
+31) What is the final electron acceptor in cellular respiration?
+A) Oxygen
+
+32) During the final events of cellular respiration, oxygen combines with ________ to form ________.
+A) energy-depleted electrons and carbon
+D) energy-depleted electrons and hydrogen ions; water
+
+33) From the beginning of glycolysis to the end of the Krebs cycle (excluding the ETC), what has the
+cell gained from the breakdown of each molecule of glucose?
+A) 4 molecules of ATP, 10 of NADH, and 2 of FADH2
+
+34) Oxygen is necessary for cellular respiration because oxygen
+C) combines with electrons and hydrogen ions to form water.
+
+35) The step in aerobic respiration that produces the most ATP per molecule of glucose is
+A) the ETC.
+
+36) Which of the following parts of the mitochondria is (are) directly involved in the synthesis of ATP
+during chemiosmosis?
+E) Matrix and inner membrane
+
+37) If ATP is made in the mitochondria, how does it provide energy for reactions in the cytoplasm of
+the cell?
+E) ATP diffuses into the cytoplasm through large pores in the outer membrane of the
+mitochondria out.
+
+38) Which of the following most closely matches the correct order of the main events of aerobic
+cellular respiration?
+E) Glycolysis, Krebs cycle, ETC, major ATP production
+
+39) The products of the Krebs cycle include
+A) ATP, carbon dioxide, and energy carriers.
+
+40) The part of a mitochondrion that is analogous to the stroma of a chloroplast is the
+A) matrix.
+
+41) The inner membrane of the mitochondria can be compared functionally to the thylakoid
+membranes of the chloroplast because both contain a system for
+C) electron transport.
+
+42) Which step produces the most ATP?
+C) The ETC
+
+43) Which of the following processes occurs in the cytoplasm?
+A) Glycolysis
+
+44) Which of the following processes occurs across the mitochondrial membrane?
+C) The ETC
+
+45) Which of the following processes involves hydrogen ions moving through ATP synthase channels,
+generating ATP molecules?
+C) The ETC
+
+46) The term chemiosmosis is associated with which process?
+B) The ETC
+
+47) During which of the following processes is CO2 produced?
+C) The Krebs cycle
+
+48) Which of the following processes involves citric acid?
+A) The ETC
+B) The Krebs cycle
+
+49) When oxygen is present
+B) most animal cells utilize aerobic cellular respiration.
+
+50) Suppose an organism can alternate between aerobic and anaerobic respiration. If it had to use
+anaerobic respiration exclusively, how many glucose molecules must it break down to generate the
+same ATP as it would in aerobic respiration?
+D) 19
+
+51) As a bicyclist pedals up a hill to the finish line of a race and "feels the burn" in his leg muscles,
+those muscle cells are most likely utilizing
+D) some lactate fermentation and lactic starting to build up in his muscle tissue causing a cramp.
+
+52) Which of the following is common to both fermentation and cellular respiration?
+A) Glycolysis
+
+53) During which of the following processes is ATP NOT produced?
+A) Fermentation by itself
+
+54) Which of the following processes requires oxygen?
+B) The ETC
+
+55) Within a cell undergoing anaerobic metabolism of glucose, fermentation occurs in the
+
+B) phospholipid bilayer of the cell membrane.
+A) fluid portion of the cytoplasm.
+
+56) During the fermentation of one molecule of glucose, the net production of ATP is
+E) two molecules
+
+57) After fermentation in human cells, lactate is converted to pyruvate in the
+E) muscles.
+
+58) What is the significance of the conversion of pyruvate to lactate during fermentation?
+B) NAD+ is regenerated for use in glycolysis.
+
+59) In the absence of oxygen, suppose a single yeast cell undergoes fermentation and uses 100
+molecules of glucose. How many molecules of ATP will be generated?
+A) 100 C) 36 D) 400 E) 300
+B) 200
+
+60) In vertebrate animal cells, where does the synthesis of lactate occur?
+B) Fluid portion of the cytoplasm
+
+61) How does one account for the bubbles in a glass of beer or champagne?
+C) Bubbles of CO2 were produced by yeast during anaerobic metabolism and were trapped in
+the bottle.
+
+62) How do fatigued human muscle cells repay an "oxygen debt"?
+B) The cells convert lactate back to pyruvate.
+
+63) In human muscle cells, fermentation (by itself) produces
+D) lactate.
+
+64) End products of the different fermentation processes include all of the following EXCEPT
+A) water.
+
+65) Human muscle cells can perform
+C) lactic acid fermentation and aerobic cellular respiration.
+
+66) At the end of aerobic cellular respiration, how many total carbon dioxide molecules are produced
+for each glucose metabolized?
+A) 6
+
+67) Some plans for weight loss include eating a low-carbohydrate diet. In the absence of a lot of
+glucose in the diet, what other food molecules can be used to extract energy for cellular
+respiration?
+C) Protein and fats
+
+68) The reason bread dough "rises" is due to the production of
+D) carbon dioxide gas.
+
+69) Bacteria in our mouths feed off the sugars in foods that we eat. As these bacteria ferment the
+sugars, they generate a product that can cause dental cavities. What is this product?
+C) Lactic acid
+
+70) Which of the following metabolic processes directly utilizes oxygen?
+D) ETC
+
+71) Cyanide poisoning occurs because cyanide inhibits an enzyme in the electron transport pathway.
+Which of the following is the reason why cyanide poisoning becomes deadly?
+B) ATP is no longer produced by chemiosmosis.
+
+TRUE/FALSE. Write 'T' if the statement is true and 'F' if the statement is false.
+...
+
+72) During chemiosmosis, a hydrogen ion gradient is linked to the production of ATP.
+TRUE
+
+73) Glycolysis and the Krebs cycle reactions both occur in the mitochondria.
+FALSE
+
+74) Carbon dioxide is considered a waste product of cellular respiration.
+TRUE
+
+75) The process of fermentation is energetically more efficient than that of cellular respiration.
+FALSE
+
+MULTIPLE CHOICE. Choose the one alternative that best completes the statement or answers the question.
+...
+
+76) Some people trying to lose weight have gone on the Atkins diet, in which they eat mostly
+high-protein, low-carbohydrate foods such as meat, cheese, and eggs. The amino acids in these
+protein-rich diets, such as alanine, glycine, and serine, can be converted to pyruvate by
+deamination (removal of the amino group).
+Based on this scenario as well as your knowledge of cellular respiration, how many ATP, NADH,
+and FADH2 molecules will be generated from one molecule of alanine during the mitochondrial
+matrix reactions? Hint: Only consider the reactions from the point at which the alanine carbons
+enter cellular respiration.
+E) 1 FADH2, 4 NADH, and 1 ATP
+
+The nucleolus functions in the production of...
+ribosomes
+
+Which is a characteristic of mitochondria and chloroplasts that supports the endosymbiotic theory?
+Both contain DNA molecules
+
+All of the following cell components are found in prokaryotic cells EXCEPT...
+nuclear envelope
+
+The organelle that is the major producer of ATP and is found in both heterotrophs and autotrophs is the...
+mitochondrion
+
+If plant cells are immersed in distilled water, the resulting movement of water into the cells is called...
+osmosis
+
+Which of the following is the primary role of the lysosome?
+intracellular digestion
+
+Cytoplasmic channels between plant cells which are most similar to gap junctions between animal cells are called...
+plasmodesmata
+
+DIALYSIS TUBING BAG:
+From the initial condition and results described which of the following is a logical conclusion?
+The pores of the bag are larger than the glucose molecules but are smaller than the starch molecules
+
+DIALYSIS TUBING BAG:
+Which of the following best describes the conditions expected after 24 hours?
+The bag will contain more water than it did in the original condition
+
+DIALYSIS TUBING BAG:
+If, instead of the bag, a potato slice were placed in the beaker of distilled water, which of the following would be true of the potato slice?
+It would gain mass
+
+'A' represents the dominant allele and 'a' represents the recessive allele of a pair. If, in 1000 offspring, 500 are 'aa' and 500 are some other genotype, which of the following are most probably the genotypes of their parents?
+'Aa' and 'aa'
+
+A form of vitamin D-resistant rickets, know as hypophosphatemia, is inherited as an X-linked DOMINANT trait. If a male with hypophosphatemia marries a normal female, which of the following predictions concerning their potential progeny would be true?
+All of their daughters would inherit the disease
+
+Which of the following best describes the parents in a testcross?
+One individual has the dominant phenotype and the other has the recessive phenotype
+
+Which of the following is the most likely explanation for a high rate of crossing over between 2 genes?
+The 2 genes are far apart on the same chromosome
+
+In peas the trait for tall plants is dominant (T) and the trait for recessive plants is recessive (t). The trait for yellow seed color is dominant (Y) and the trait for green seed color is recessive (y). A cross between 2 plants results in 296 tall yellow plants and 104 tall green plants. Which of the following are most likely to be the genotypes of the parents?
+TtYy x TTYy
+
+In humans, red-green color blindness is a sex-linked recessive trait. If a man and a woman produce a color blind son, which of the following MUST be true?
+The mother carries the allele for color blindness
+
+PEDIGREE (heredity q. 7)
+In the pedigree below, squares represent males and circles represent females. Individuals who express a particular trait are represented by shaded figures. Which of the following patterns of inheritance best explains the transmission of the trait?
+Autosomal dominant
+
+MOTHER: Type B blood
+CHILD: Type A blood
+The father must have which of the following blood types?
+AB or A
+
+MOTHER: Type B blood
+CHILD: Type A blood
+If the father has blood type AB, which of the following statements is correct about the mother?
+She contributes an i allele, which is recessive to the father's IA allele
+
+A male fruit fly with red eyes and long wings was mated with a female with purple eyes and vestigial wings. All of the offspring in the F1 generation had red eyes and long wings. These F1 flies were test crossed with purple eyed, vestigial winged flied. Their offspring, the F2 generation, appeared as indicated below.
+125 red eyes, long wings
+124 purple eyes, vestigial wings
+18 purple eyes, long wings
+16 red eyes, vestigial wings
+283 total
+
+If in the F1 and F2 generations the same characteristics appeared in both males and females, it would be safe to assume that these traits are...
+autosomal characteristics
+
+A male fruit fly with red eyes and long wings was mated with a female with purple eyes and vestigial wings. All of the offspring in the F1 generation had red eyes and long wings. These F1 flies were test crossed with purple eyed, vestigial winged flied. Their offspring, the F2 generation, appeared as indicated below.
+125 red eyes, long wings
+124 purple eyes, vestigial wings
+18 purple eyes, long wings
+16 red eyes, vestigial wings
+283 total
+
+In the F2 generation, the results are best explained by the fact that ...
+these genes for eye color and wing shape are found on the same chromosome
+
+A male fruit fly with red eyes and long wings was mated with a female with purple eyes and vestigial wings. All of the offspring in the F1 generation had red eyes and long wings. These F1 flies were test crossed with purple eyed, vestigial winged flied. Their offspring, the F2 generation, appeared as indicated below.
+125 red eyes, long wings
+124 purple eyes, vestigial wings
+18 purple eyes, long wings
+16 red eyes, vestigial wings
+283 total
+
+If a single locus controls wing shape, then the alleles for this gene act as...
+dominant-recessive alleles
+
+DNA replication can be described as...
+semiconservative
+
+What would be the sequence of bases of an mRNA molecule that was transcribes from the sequence of DNA bases shown below?
+
+GTAGTAGGT
+CAUCAUCCA
+
+What is the process in which a protein is assembles at a ribosome?
+translation
+
+What is the process in which naked DNA is taken up by a bacterial or yeast cell?
+transformation
+
+What is the process in which RNA is produced by using a DNA template?
+transcription
+
+What is the process that results in the production of cDNA from an RNA molecule?
+reverse transcription
+
+What is the process in which DNA is produced by using a DNA template?
+replication
+
+GEL ELECTROPHORESIS:
+The electrophoretic separation of the pieces of DNA in each of the four samples was achieved because of differential migration of the DNA fragments in an electric field. This differential migration was cause by the...
+size of each fragment
+
+The DNA was labeled with 32P (radioactive phosphorus) in order to...
+visualize the fragments
+
+Which of the following is an additional use of the gel electrophoresis technique?
+To separate the proteins in a mixture
+
+BACTERIAL GROWTH:
+If no new mutations occur, it would be most reasonable to expect bacterial growth on with of the following plates?
+1, 2, 3, and 4
+
+BACTERIAL GROWTH:
+The scientist used restriction enzymes for what purpose in the experiment?
+To make cuts in the plasmid DNA
+
+BACTERIAL GROWTH:
+If the scientist had forgotten to use DNA ligase during the preparation of the recombinant plasmid, bacterial growth would most likely have occured on which of the following?
+1 and 4
+
+BACTERIAL GROWTH:
+If the scientist used the cultures to perform another experiment as shown above, using medium that contained lactose as the only energy source, growth would most likely occur on which of the following plates?
+7 and 8
+
+All of the following are density dependent factors that limit animal populations EXCEPT
+weather
+
+During the carbon cycle, which of the following carbon compounds would be utilized as an energy source for heterotrophs?
+organic molecules
+
+All of the following statements concerning characteristics of predator-prey relationships are correct EXCEPT:
+The population of predators most often eliminates the population of prey
+
+Which of the following is true about secondary consumers in an ecosystem?
+They are fewer in number than are primary consumers
+
+In the nitrogen cycle, the transformation of gaseous nitrogen into nitrogen-containing compounds is performed primarily by...
+bacteria
+
+Permafrost; temperatures range from approx. -50 degrees C to +25 degrees C; a growing season of 60 days or less
+arctic tundra
+
+Over 10 inches of precipitation per year; long, cold winters and short summers; dominant vegetation is gymnosperm
+taiga
+
+Lack if water common in summer; seasonal temperature variations; maintained by periodic fires
+temperate grassland
+
+Less than 10 inches of precipitation per year; extremes of hot and cold throughout the year; large daily temp. variations
+desert
+
+This biome has the greatest diversity of species
+tropical rain forest
+
+Which point on the curve in the diagram above represents the carrying capacity of the environment for the population shown?
+Point E
+
+Which of the following organisms is most likely to be located at the apex of the pyramid of biomass?
+hawk
+
+All of the following statements about the diagram are correct EXCEPT...
+Only two trophic levels are depicted
+
+The organic and inorganic materials in all the organisms in the diagram will eventually return to the environment by the action of
+decomposers
+
+Which of the following best explains why there are seldom more than 5 trophic levels in a food chain?
+Energy is lost from each trophic level
+
+COUNTRY 1/COUNTRY 2 GRAPH:
+In Country 1, apprix. what percentage of the individuals were younger than 15 years of age?
+42%
+
+COUNTRY 1/COUNTRY 2 GRAPH:
+Which of the following best approximates the ratio of males to females among individuals below 15 years of age?
+Country 1 1:1
+Country 2 1:1
+
+COUNTRY 1/COUNTRY 2 GRAPH:
+If, in Country 1, infant mortality declined and the birth rate remained the same, then initially the population would be expected to...
+be even more concentrated in the young age classes
+
+COUNTRY 1/COUNTRY 2 GRAPH:
+Over the next 10-15 years, the stabilization of Country 1's population at its current size would require that....
+each couple produce fewer children than the number required to replace themselves
+
+WILD SHEEP-TASMANIA:
+The type of population growth represented by that portion of the graph line enclosed in the bracket is most accurately termed
+exponential
+
+WILD SHEEP-TASMANIA:
+The graph indicated that the sheep population most likely is
+growing in excess of its of its carrying capacity, since fluctuations in population size occurred after 1850
+
+Which of the following is most associated with the elaborate courtship rituals conducted by many birds?
+species recognition
+
+The replacement of glutamic acid by valine at a specific position in the beta chains of hemoglobin leads to sickle cell anemia. This change represents which of the following mutational events?
+DNA base-pair substitution
+
+The differences in cricket calls among sympatric species of crickets are examples of
+behavioral isolation
+
+Which of the following statements best expresses the concept of punctuated equilibrium?
+Evolutionary changed consist of rapid bursts of speciation alternating with long periods in which species remain essentially unmodified
+
+Which of the following principles is NOT part of Darwin's theory of evolution by natural selection?
+Mutations are the ultimate source of genetic variation
+
+In a small group of people living in a remote area, there is a hugh incidence of 'blue skin', a condition that results from a variation in the structure of hemoglobin. All of the 'blue skinned' residents can trace their ancestry to one couple who were among the original settlers of this region. The unusually high frequency of 'blue skin' in this area is an example of...
+genetic drift
+(founder effect)
+
+In certain Native American groups, albinism due to a homozygous recessive condition in the biochemical pathway for melanin is sometimes seen. If the frequency of the allele for this condition if 0.06, which of the following is closest to the frequency of the dominant allele in this population?
+0.94
+
+In a certain flock of sheep, 4% of the population has black wool and 96% has white wool.
+If black wool is a recessive trait, what percentage of the population is heterozygous for this trait?
+32%
+
+In a certain flock of sheep, 4% pf the population has black wool and 96% has white wool.
+What percentage of the population is homozygous for white wool?
+64%
+
+The carbon that makes up organic molecules in plants is derived directly from
+carbon fixed in photosynthesis
+
+If plants are grown for several days in an atmosphere containing 14 CO2 in place of 12 CO2 , one would expect to find
+a large increase in 14C in the starch in the roots
+
+The O2 released during photosynthesis comes from
+H2O
+
+The end products of the light dependent reactions of photosynthesis are
+ATP, NADPH and O2
+
+Which of the following is an important difference between light dependent and light independent reactions of photosynthesis?
+The light dependent reactions produce ATP and NADPH; the light independent reactions use energy stored in ATP and NADPH
+
+Which of the following enzymes is responsible for CO2 fixation in C3 plants?
+RuBP carboxylase
+
+During respiration, most ATP is formed as a direct result of the net movement of...
+protons down a concentration gradient
+
+Which of the following processes is carried out more efficiently by a C4 plant than by a C3 plant?
+fixation of CO2
+
+On a sunny day, the closing of stomata in plant leaved results in
+a decrease in CO2 intake
+
+Oxygen consumption can be used as a measure of metabolic rate because oxygen is...
+necessary for ATP synthesis by oxidative phosphorylation
+
+A student placed 20 tobacco seeds of the same species on moist paper towels in each of 2 petri dishes. Dish A was wrapped completely in an opaque cover to exclude all light. Dish B was not wrapped. The dishes were placed equidistant from a light source set to a cycle of 14 hours of light and 10 hours of dark. All other conditions were the same for both dishes. The dishes were examined after 7 days, and the opaque cover was permanently removed from dish A. Both dishes were returned to the light and examined again at 14 days. According to the results of this experiment, germination of tobacco seeds during the first week is
+a. increased by exposure to light
+b. unaffected by light intensity
+c. prevented by paper towels
+d. accelerated in green-leaved seedlings
+a. increased by exposure to light
+
+H+ + HCO-3 --> <-- H2O + CO2
+The equation above shows one of the reversible reactions that occur in blood. After exercise, an athlete's blood pH has dropped below the normal level. How will normal blood pH be restored?
+a. an increase in o2 concentration in the plasma will lead to an increase in H+ concentration
+b. an increase in temperature will lead to an increase in H+ concentration
+c. an increase in sweating will lead to a decrease in OH- and H+ concentration
+d. an increase in breathing rate will lead to a decrease in blood CO2 and H+ concentration
+d. an increase in breathing rate will lead to more CO2 being exhaled and a decrease in H+ concentration
+
+In a hypothetical population of beetles, there is a wide variety of color, matching the range of coloration of the tree trunks on which the beetles hide from predators. the graphs below illustrate four possible changes to the beetle population as a result of a change in the environment due to pollution that darkened the tree trunks. Which of the following includes the most likely change in the coloration of the beetle population after pollution and a correct rationale for the change?
+The coloration in the population shifted toward more darker-colored beetles, as in diagram IV.
+
+Researchers conducted a controlled experiment to investigate the effect of diet on the health of beef cattle. The initial hypothesis was that in abrupt change in diet will benefit beef cattle by reducing the size is a bacterial populations living in the digestive systems of cattle. In the experiment, searchers determined that the relative abundance of two bacterial species found in the rumen of cattle. The rumen is part of the stomach that acts as a fermentation chamber in cattle and other ruminants. Shown in the table are the results from before and after an abrupt change in the cattle's diet. Based on the results what best explains why the initial hypothesis should be revised
+the abundance of One of the bacterial species increased in response to the change in diet
+
+Chytridiomycosis is a potentially lethal fungal infection that adversely affects some frog populations. The incidence and severity of the fungal infection can vary over time. Which of the following statements best describes the changes in the frog population that are depicted in the model above?
+(A) The fungus that infected the frog population was initially virulent but it later became harmless. Based on the trend over the past few years of the study, the fungus has become extinct.
+(B) Infected individuals gradually died out, and genetically resistant individuals became more common. The frog population recovered because of the increased frequency of resistant individuals.
+(C) The patterns of the curves on the graph indicate a sudden increase in the severity of the fungal infection. A large proportion of the frog population died because the individuals could not evolve fast enough.
+(D) The size of the frog population decreased sharply upon initial contact with the fungus. The fungus eventually became symbiotic with individual frogs, and the frog population began to recover.
+(B) Infected individuals gradually died out, and genetically resistant individuals became more common. The frog population recovered because of the increased frequency of resistant individuals.
+
+Water in a pond contaminated with the weed killer atrazine is suspected of inhibiting metamorphosis (development from fertilized eggs to a tadpole then to an adult frog) in northern leopard frogs. A term of scientists collected fertilized northern leopard frog eggs from a different pond that is not contaminated. what is the best experimental design to determine whether atrazine is responsible for inhibiting metamorphosis in northern leopard frogs
+Place half of the fertilized eggs in a pool of water with the same concentration of atrazine as the contaminated pond and place the other half of the fertilized eggs in a pool of water that has no atrazine. Monitor the development of the embryos through metamorphosis into adulthood.
+
+(Graph)
+Testosterone oxido-reductase is a liver enzyme that regulates testosterone levels in alligators. One study compared testosterone oxido-reductase activity between male and female alligators from Lake Woodruff, a relatively pristine environment, and from Lake Apopka, an area that has suffered severe contamination. The graph above depicts the findings of the study. The data in the graph bes support which of the following claims?
+B) Environmental contamination reduces total testosterone oxido-reductase activity in female.
+
+Under which of the following conditions is the observed number of beetles per culture dish the greatest?
+A) T. confusum with parasite at 500 days
+B) T. confusum without parasite at 300 days
+C) T. castaneum with parasite at 100 days
+D) T. castaneum with parasite at 600 days
+C) T. castaneum with parasite at 100 days
+
+The data over the duration of the experiment provide the strongest support for which of the following conclusions regarding the effect of the parasite on Tribolium populations?
+A) T. confusum is adversely affected by the parasite, while T. castaneum is not.
+B) T. castaneum is adversely affected by the parasite, while T. confusum is not.
+C) Both T. confusum and T. castaneum are adversely affected by the parasite.
+D) Both T. confusum and T. castaneum show increased fitness in the presence of the parasite.
+B) T. castaneum is adversely affected by the parasite, while T. confusum is not.
+
+If the experiment was continued for an additional 500 days, the population density of T. castaneum with the parasite would most likely stabilize at a value closest to which of the following?
+A) 5 beetles/culture dish
+B) 10 beetles/culture dish
+C) 20 beetles/culture dish
+D) 25 beetles/culture dish
+B) 10 beetles/culture dish
+
+according to the data above what is the deepest water level at which light penetration is expected to be at least 200? give answer to nearest tenth of a meter
+1.5 m
+
+based on the information in the graph how many times more ants are found on plants exposed to the solvent plus chemical compared to plants exposed to the solvent only? Give answer to the nearest tenth
+2.6
+
+what best describes the advantage that eukaryote organisms have over prokaryote organisms
+eukaryotes have organelles that allow for compartmentalization of cellular processes, which increases the efficiency of those processes
+
+Individuals with an inherited autosomal recessive disorder called primary ciliary dyskinesia (PCD) often have severe respiratory problems due to defective cilia. With PCD are often sterile because they produce sperm with defective flagella. Which of the following most likely explains the effect of the recessive allele
+The cells do not produce functional motor proteins in the flagella and cilia
+
+Which of the following depicts the most
+probable pathway of processing and
+packaging a secretory protein within a
+eukaryotic cell?
+B. Rough endoplasmic reticulum → Golgi body → secretory vesicles → cell membrane
+
+The figure below illustrates a eukaryotic cell. Which of the following best describes how the three structures indicated by the arrows work together
+To synthesize and isolate proteins for secretion or for use in the cell
+
+Simple cuboidal epithelial cells line the ducts of certain human exocrine glands. Various materials are transported into or out of the cells by diffusion. (The formula for the surface area of a cube is 6 X S squared, and the formula for the volume of a cube is S cubed, where S=the length of a side of the cube.) Which of the following cube-shaped cells would be most efficient in removing waste by diffusion?
+a) (picture of smallest cube)
+
+the diagram below shows energy changes in a specific chemical reaction with and without the addition of an enzyme to the reaction what question can be answered by the diagram
+does the addition of an enzyme reduce the activation energy required for a reaction?
+
+The salinity of a small inland lake has recently started to increase. Researchers are planning to study the lake over several decades to investigate how freshwater organisms survive significant changes in their natural habitat. Which of the following physiological mechanisms will the researchers are most likely observe among the surviving organisms in the lake
+Single celled organisms will use various mechanisms to counteract the increased flow of water from cells to the environment
+Hint: Hi goes to Lo
+
+Which graph depicts the rate of an enzyme-catalyzed reaction from low substrate concentrations to saturating substrate concentrations?
+curving up until plateauing, do to enzymes becoming the limiting factor
+
+the contents of which dialysis tube are initially isotonic to the distilled water in the beaker?
+5
+
+a net movement of water into the beaker occurs in which of the following dialysis tubes?
+6
+
+to model a plant cell, a permeable, nonflexible case is placed around each piece of dialysis tubing. the greatest pressure potential will develop within dialysis tube number?
+4
+
+enzymes with their highest activity at an alkaline (basic) pH are represented by which of the following graphs?
+II only (line goes up until plateaus at pH > 7)
+
+graphs representing enzyems sensitive to changes in pH include which of the following
+I, II, and III only (because all have graphs thta are not just a straight line)
+
+the most likely explanation for the results shown in graph 1 is that
+ph affects the shape of the active site of the enzyme
+
+Paramecia are unicellular protists that have contractile vacuoles to remove excess intracellular water. In an experimental investigation, paramecia were places were placed in salt solutions of increasing osmolarity. The rate at which the contractile vacuole contracted in pump out excess water was determined and plotted against osmolarity of the solution, as shown is the graph. (Graph has negative slope; y-axis - rate of concentration, x-axis - osmolarity of solution.) Which of the following is the correct explanation for the data?
+
+a. At higher osmolarity, lower rates of contraction are required because more salt diffuses into paramecia
+b. The contraction rate increases as the osmolarity decreases becase of the reduced amount of ATP produced by cellular respiration
+c. The contractile vacuole is less efficient in solutions of high osmolarity because of the reduced amount of ATP produced from cellular respiration
+d. In an isosmotic salt solution, thre is no diffusion of water into or out of the paramecia, so the contraction rate is zero
+b. The contraction rate increases as the osmolarity decreases becase of the reduced amount of ATP produced by cellular respiration
+
+The endocrine system incorporates feedback mechanisms that maintain homeostasis. Which of the following demonstrates negative feedback by the endocrine system?
+After a meal, blood glucose levels become elevated, stimulating beta cells of the pancreas to release insulin into the blood. Excess glucose is then converted to glycogen in the liver, reducing blood glucose levels
+
+A human kidney filters about 200 liters of blood each day. Approximately two liters of liquid and nutrient waste are excreted as urine. The remaining fluid and dissolved substances are reabsorbed and continue to circulate throughout the body. Antidiuretic hormone (ADH) is secreted in response to reduced plasma volume. ADH targets the collecting ducts in the kidney, stimulating the insertion of aquaporins into their plasma membranes and an increased reabsorption of water.If ADH secretion is inhibited, which of the following would initially result?
+The person would produce greater amounts of dilute urine.
+
+If ATP breakdown (hydrolysis) is inhibited, which of the following types of movement across cell membranes is also inhibited?
+passage of a solute against its concentration gradient.
+
+A common laboratory investigation involves putting a solution of starch and glucose into a dialysis bag and suspending the bag in a beaker of water, as shown in the figure below.
+The investigation is aimed at understanding how molecular size affects movement through a membrane. Which of the following best represents the amount of starch, water, and glucose in the dialysis bag over the course of the investigation?
+a
+
+The diagram above illustrates feedback control as exerted by the hormone thyroxine. Following surgical removal of the thyroid gland, the level of TSH in the blood will increase. Which of the following best explains this increase?
+A) Residual blood thyroxine, from prior to thyroid gland removal, will bind to cells in the anterior pituitary, signaling more TSH secretion.
+B) Thyroxine will remain bound to thyroxine receptors on various body cells, and these body cells will secrete additional hormones that stimulate the anterior pituitary to secrete TSH.
+C) Thyroxine that was stored in the anterior pituitary prior to thyroid gland removal will signal more TSH secretion.
+D) A decrease in thyroxine levels means a loss of inhibition to the hypothalamus and anterior pituitary, leading to increased TSH secretion.
+D) A decrease in thyroxine levels means a loss of inhibition to the hypothalamus and anterior pituitary, leading to increased TSH secretion.
+
+Antidiuretic hormone (ADH) is important in maintaining homeostasis in mammals. ADH is released from the hypothalamus in response to high tissue osmolarity. In response to ADH, the collecting duct and distal tubule in the kidney become more permeable to water, which increases water reabsorption into the capillaries. The amount of hormone released is controlled by a negative feedback loop. Based on the model presented, which of the following statements expresses the proper relationship between osmolarity, ADH release, and urine production?
+A) As tissue osmolarity rises, more ADH is released, causing less water to be excreted as urine
+B) As tissue osmolarity rises, less ADH is released, causing less water to be excreted as urine
+C) As tissue osmolarity rises, more ADH is released, causing more water to be excreted as urine
+D) As tissue osmolarity rises, less ADH is released, causing more water to be excreted as urine.
+A) As tissue osmolarity rises, more ADH is released, causing less water to be excreted as urine
+
+two nutrient solutions are maintained at the same ph actively respiring mitochondria are isolated and placed into each of the two solutions. oxygen gas is bubbled into one solution. the other solution is depleted of available oxygen. what best explains why atp production is greater in the tube with oxygen then in the tube without oxygen
+the rate of proton pumping across the inner mitochondrial membrane is lower in the sample without oxygen
+
+Which of the following best describes the function of the coenzymes NAD+ and FAD in eukaryotic cellular respiration?
+(A) They participate in hydrolysis reactions by accepting protons from water molecules.
+(B) They participate directly in the phosphorylation of ADP to ATP.
+(C) They serve as final electron acceptors in the electron transport chain.
+(D) They aid vitamins such as niacin in the break- down of glucose.
+(E) Theyacceptelectronsduringoxidation- reduction reactions.
+(E) Theyacceptelectronsduringoxidation- reduction reactions.
+
+Which of the following is the best explanation for the pattern of change in mass of the organisms over time? (A) Water loss due to evaporation
+(B) Cellular respiration
+(C) The law of conservation of matter
+(D) Growth and reproduction
+(B) Cellular respiration
+
+Which of the following statements best explains why oxygen is taken up more rapidly at 12 degrees C than at 20 degrees C?
+at 12 degrees C a higher rate of oxygen consumption is required to maintain a high body temperature.
+
+which of the following hypotheses is best supported by the results of this experiment?
+metabolic rate per gram of tissue is higher in smaller mammals.
+
+During aerobic cellular respiration, oxygen gas is consumed at the same rate as carbon dioxide gas is produced. In order to provide accurate volumetric measurements of oxygen gas consumption, the experimental setup should include which of the following?
+A substance that removes carbon dioxide gas
+
+According to the data, the mice at 10C demonstrated greater oxygen consumption per gram of tissue than did the mice at 25C. This is most likely explained by which of the following statements?
+The mice at 10C had a higher rate of ATP production than the mice at 25C
+
+According to the data, the crickets at 25 degrees C have greater oxygen consumption per gram of tissue than do crickets at 10 degrees C. This trend in oxygen consumption is the opposite of that in the mice. The difference in trends in oxygen consumption among crickets and mice is due to their
+c) mode of internal temperature regulation
+
+The chemical reaction for photosynthesis is 6 CO2 + 12 H2O + light energy --> C6H12O6 + 6 O2 + 6 H2O If the input water is labeled with a radioactive isotope of oxygen, 18O, then the oxygen gas released as the reactionsproceeds is also labeled with 18O. Which of the following is the most likely explanation?
+b) During the light reactions of photosynthesis, water is split, removing electrons and protons, and oxygen gas is released.
+
+Which of the following questions is most relevant to understanding the calvin cycle?
+C. How is ATP used in the formation of 3-carbon carbohydrates?
+
+n the Arctic Ocean, the predominant primary producers are phytoplankton. Phytoplankton are consumed by zooplankton, which in turn are eaten by codfish. In years when there is more open water (less ice coverage), there are more zooplankton and fish than in years with less open water (more ice coverage). Based on the graph above, the difference is most likely because
+A) when there is less open water, light is blocked from the zooplankton, so they cannot produce as much food for the fish
+B) when there is more open water, the
+temperature is warmer, so the zooplankton and fish populations increase in size
+C) the ice blocks the light, so in years with more ice coverage, there is less photosynthesis by the phytoplankton
+D) the ice increases the light available for photosynthesis, so primary production increases and zooplankton populations increase in size
+C) the ice blocks the light, so in years with more ice coverage, there is less photosynthesis by the phytoplankton
+
+Which of the following provides the best indication that light is required for the activation of electron transfer reactions in chloroplasts?
+A) Calculating the rate of change of the absorbance for sample 1
+B) Comparing the observed results for sample 2 and sample 3
+C) Repeating the entire experimental procedure at night
+D) Including multiple trials for all the samples
+B) Comparing the observed results for sample 2 and sample 3
+
+Which of the following can be reasonably concluded from the experimental results?.
+A) Chloroplasts must be suspended in a buffer solution to function properly.
+B) The optimal temperature for activation of electron transfer is 25o C.
+C) DCPIP inhibits biochemical reactions in suspended chloroplasts.
+D) Light from a lamp can substitute for sunlight in stimulating chloroplast processes
+D) Light from a lamp can substitute for sunlight in stimulating chloroplast processes
+
+If an additional sample containing the chloroplast/DCPIP solution was placed at a distance of 90 cm from the lamp, which of the following predictions would be most consistent with the experimental results?
+A) The concentration of DCPIP in the solution will increase exponentially.
+B) The absorbance at 60 minutes will be roughly equal to 1.4.
+C) The change in absorbance over time in the solution will be less than that of the other samples.
+D) The temperature of the solution will exceed 75o C.
+C) The change in absorbance over time in the solution will be less than that of the other samples.
+
+Which of the following descriptions of photosynthesis best explains the results of the experiment?
+A) Availability of electrons for transfer to DCPIP depends on light energy.
+B) Movement of DCPIP across chloroplast membranes occurs in less than 60 minutes.
+C) Chlorophyll molecules degrade rapidly in the presence of DCPIP.
+D) DCPIP can only be used to measure photosynthetic activity at low light levels.
+A) Availability of electrons for transfer to DCPIP depends on light energy.
+
+Which of the following scientific questions could be investigated using a similar experimental setup?
+A) How much carbon dioxide is required by a plant cell to produce one molecule of glucose?
+B) What wavelength of light best activates electron transfer reactions in chloroplasts?
+C) Which molecule in chloroplasts accepts activated electrons from DCPIP during photosynthesis?
+D) Are the same genes that are expressed in chloroplasts also expressed in mitochondria?
+B) What wavelength of light best activates electron transfer reactions in chloroplasts?
+
+When DNA replicates, each strand of the original DNA molecule is used as a template for the synthesis of a second, complementary strand. Which of the following figures most accurately illustrates enzyme-mediated synthesis of new DNA at a replication fork?
+d) (leading strand going towards, lagging strand going away)
+
+Sickle-cell anemia results from a point mutation in the HBB gene. The mutation results in the replacement of an amino acid that has a hydrophilic R-group with an amino acid that has a hydrophobic R-group on the exterior of the hemoglobin protein. Such a mutation would most likely result in altered
+a) properties of the molecule as a result of abnormal interactions between adjacent hemoglobin molecules
+
+A new mutation that arose in one copy of gene X in a somatic cell resulted in the formation of a tumor. Which of the following pieces of evidence best describes how the new mutation directly caused the tumor?
+A) Protein X normally stimulates cell division, and the mutation created an overactive version of protein X
+B) Protein X normally activates a growth hormone receptor, and the mutation decreased the stability of protein X
+C) Protein X normally prevents passage through the cell cycle, and the mutation created an overactive version of protein X.
+D) Protein X normally regulates gene expression, and the mutation created an under active version of protein X that blocked the cell cycle
+a. A
+
+The first diagram below shows the levels of mRNA from two different genes (bicoid and caudal) at different positions along the anterior-posterior axis of a Drosophila eggs immediately before fertilization. The second diagram shows the levels of the two corresponding proteins along the anterior-posterior axis shortly after fertilization.
+
+Which of the following conclusions is best supported by the data?
+a) Bicoid protein inhibits translation of caudal mRNA.
+
+the mrna transcribed from the dna would read
+c. 5' auc tag uuu ggc gca hug uaa
+
+Which of the following modifications of the DNA would produce the greatest change in the primary structure of the polypeptide chain?
+A) Deleting the first T in the second triplet
+B) Changing the second triplet to read 3'-CTC-5'
+C) Changing the third triplet to read 3'-AAC-5'
+D) Changing the fourth triplet to read 3'-CCA-5'
+E) Deleting the sixth triplet
+a
+
+in which of the following would there not be a change in the amino acid sequence of the polypeptide coded for by this dna
+changing 3' aaa 5' to read 3' aag 5'
+
+if chemical signals in the cytoplasm control the progression of the cell to the M phase of the cell cycle, then fusion of cell in G1 with a cell in early M phase would most likely result in
+condensation of chromatin in prep of nuclear division in both cells
+
+A researcher examining a root tip observes a plant cell with condensed sister chromatids, kinetochores, with attached microtubules, and individual chromosomes that are aligned at the equatorial plate of the cell. Which of the following best describe what the next process will be in the cell?
+paired chromatids will separate, and the new daughter chromosomes will move toward opposite poles of the cell
+
+The process depicted in the image above is best summarized by which of the following descriptions
+During meiosis, crossing over at chiasmata leads to recombination of alleles between homologous chromosomes
+
+dna replication occurs
+during the s phase of the cell cycle
+
+Which of the following normally leads to the production of functional messenger RNA in eukaryotic cells?
+(A) A decrease in the rate of ribosome synthesis (B) The removal of portions of RNA known as
+intervening sequences (introns)
+(C) A decrease in RNA polymerase activity (D) The replication of new messenger RNA
+molecules from existing messenger RNA
+molecules
+(E) Theformationofpeptidebondsbetween
+adjacent nucleotides
+(B) The removal of portions of RNA known as
+intervening sequences (introns)
+
+The processes illustrated in the models depicted above all result in which of the following
+an increase in genetic diversity
+
+mitochondria are found in most eukaryotic cells and contain their own DNA and ribosomes that are similar to those typical of many prokaryotic cells
+Which of the following statements is justified by these observations?
+
+a) the mitochondrion is the only location in which eukaryotic cells can synthesize atp
+b) an ancestral cell most likely engulfed and aerobic prokaryote in a relationship that proved beneficial for both cells
+c) mitochondrial membrane provide abundant surface area for reactions because of the infoldings called cristae
+d) the mitochondrion plays a role in respiration but it also stores the cell's mRNA
+B
+
+Which of the following statements about the two population sis best supported by the info presented in the graph
+a) the reproductive rate of the wolves was greater than the reproductive rate of the moose
+b) mutualism allowed the two population so reporoduce while occupying the same ecological space
+c) speciation occurred when the two population became reproductively isolated from each other
+d) The wolves were predators of the moose which were otherwise reproductively succesful
+d) The wolves were predators of the moose which were otherwise reproductively succesful
+
+sickle cell anemia is associated with a mutation in the gene encoding the beta subunit of hemoglobin that results in a change from glutamic acid to valine at pos. 6. all other amino acids are identical to a normal hemoglobin molecule. based on the info , which of the following mutations is the most likely cause of sickle cell anemia
+a)a translocation of DNA from one chromosome to another
+b) a single base pair insertion in the gene encoding the beta subunit
+c) a single pair deletion in the gene encoding the beta subunit
+d) a single base pair substitution in the gene encoding the beta subunit
+d
+
+which of the following statements accurately uses the info presented to support the hypothesis that interruptions of M functions in a single body cell can result in cancer
+a) protein 3 will be prevented from interacting with CAMs causing the cell cycle to stop permanently
+b) the ras protein will remain bound to DNA blocking expression of genes required for mitosis
+c) growth factor signaling can trigger mitosis in cells that are n direct contact with other cells
+d) the receptor proteins of body cells will no longer bind to growth factor proteins
+a or d
+
+which of the following questions would be most appropriate to investigate whether the proteolytic enzymes are evolutionarily conserved among species?
+a)are the genes encoding the proteolytic enzymes expressed in the same cell types in all species?
+b) if a proteolytic enzyme from one species is incubated with a precursor protein from another species, does correct cleavage occur?
+c) one the precursor protein of different species are cleaved, do the active signaling proteins bind to the same receptors on different target cells?
+d) tare the proteolytic enzymes synthesized in the rough ER of all species?
+c ?
+
+which of the following statement about how honeybees communicate the position of flower patches is most consistent with the model?
+a)the number of repetitions of the waggle dance indicates the quality of the pollen source
+b)the total are covered by any waggle dance leads bees to the target flowers
+c) the angle of the waggle phase relative tot the vertical plane indicates the position of the target flowers relative to another beehive
+d) the farther the target flowers from the hive, the longer the waggles phase
+d
+
+a scientist is designing a plan for investigating how the fish in the ocean pens might affect nearby ecosystems
+which of the following is the most appropriate factor to use as the dependent variable in the experimental investigation
+a) the amount of metabolic wastes in the water where the fish are being raised
+b) the water temp in the natural habitat of the fish being studied
+c) the types of fish that are consumes by humans
+d) the amount of time it takes for fish to digest a meal
+a
+
+which of the following describes the initial steps in the process whereby epinephrine stimulates glycogen breakdown
+a) epinephrine bind to a cell surface receptor, the activated receptor stimulates production of the second messenger, cAMP
+b) epinephrine bind to a cell surface receptor, the activated receptor catalyzes the conversion of glycogen to glucose
+c) epinephrine diffuses through the plasma membrane, the hormone dismerizes in the cytosol
+d) epinephrine is taken into the cell by endocytosis, glycogen is converted to glucose in the endocytotic vesicle
+a
+
+which of the following scientific questions is most relevant to the model represented in the figure above
+a) is atp required for the trans of sugars across the outer mitochondrial membrane
+b) do the types of phospholipids in a membrane affect the rate at which molecules enter a cell by passive diffusion
+c) which molecular substance is actively transported across the plasma membrane
+d) how does temperature affect the movement ofmolecules into lysosomes
+c
+
+the students concluded that pea plants grew better in compost than did melon plants. Which of the following best addresses the validity of the conclusion made by the students?
+a) the conclusion is valid because the independent and dependent variables in the experiment were controlled
+b) the conclusion is valid because the experimental design included a large sample size
+c) the conclusion is invalid because other variables in the experiment affected the results
+d) invalid because the units of measurement were not given in the experimental design
+c
+
+which of the following claims is most consistent with the observed butterfly behavior
+a) butterflies that express two variants of the enzyme are active over a greater range of temperatures
+b) butterflies that are active over a wide range of temperatures produce greater amounts of the enzymes
+c) temp has little effect of the activity of the butterflies
+d) butterflies that are active at warmer temperatures produce more offspring
+a
+
+which of the following best justifies the claim that the condition sin at least on e of the experiments could generate the molecular building blocks essential for life
+a_ the carbon dioxide gas and water vapor in 1 could react to produce the phospholipids required by the first life forms
+b) the nitrogen gas and ammonia gas in experiment 1 could provide the elemental nitrogen required for the formation of amino acids
+c) the sulfur dioxide gas in experiment 2 could donate the excited electrons required to drive photosynthesis
+d) the methane gas in 2 could act as the electron acceptor required for cellular resp
+a or b
+
+based on the info presented, which of the following will also occur in response to steroid signaling?
+a)histone protein synthesis will increase because histones maintain the DNA in an optimal conformation for chromosome assembly
+b) ribosome production will increase because ribosomes are specific for the mRNA with which they bind during translation
+c) DNA replication will increase as a result of the binding of the hormone receptor complex to the DNA
+d) production of a specific mRNA will increase as a result of the binding of the hormone receptor complex to the DNA
+d
+
+which of the following best describes the reproductive ability of C. elegans folloowing the ARD induced in the first experiment
+a) mating with a well fed male consistently produced more offspring than did reproduction via self fertilization
+
+In an experiment, cells were isolated from an aquatic plant and suspended in pond water, a sucrose sugar solution, or distilled water. All of the cells were then viewed under a microscope. Compared with the cell in the pond water, the cell in the sugar solution appeared shriveled, and the cell in the distilled water appeared inflated. The results of the experiment are represented in Figure 1.
+Figure 1. The results of an experiment using aquatic plant cells
+
+Which of the following statements best explains the observations represented in Figure 1 ?
+There was a net movement of water out of the cell suspended in the sugar solution and a net movement of water into the cell suspended in the distilled water.
+
+Which statement best describes the effect on water transport across the cell membrane if the aquaporin in the figure ceases to function
+Water molecules will still be able to move across the cell membrane but at a slower rate.
+
+Simple diffusion and facilitated diffusion are related in that both
+depend on a concentration gradient
+
+A student analyzed a viral genome and found that the genome had the following nucleotide composition.
+• 28% adenine
+• 20% thymine
+• 35% cytosine
+• 17% guanine
+Which of the following best describes the structure of the viral genome?
+Single-stranded DNA
+
+Intact cells of two unknown cell types were placed into solutions with different concentrations of NaCl. Type I cells swelled and burst in the solution with the lowest concentration of NaCl. Type II cells swelled but did not burst in the solution with the lowest concentration of NaCl.
+Which of the following descriptions of cell type I and cell type II are most consistent with the data?
+Cell 1-Animal cell surrounded by a plasma membrane only
+Cell 2-Plant cell surrounded by a plasma membrane and a cell wall
+
+A human kidney filters about 200 liters of blood each day. Approximately two liters of liquid and nutrient waste are excreted as urine. The remaining fluid and dissolved substances are reabsorbed and continue to circulate throughout the body. Antidiuretic hormone (ADH) is secreted in response to reduced plasma volume. ADH targets the collecting ducts in the kidney, stimulating the insertion of aquaporins into their plasma membranes and an increased reabsorption of water.
+If ADH secretion is inhibited, which of the following would initially result?
+The person would produce greater amounts of dilute urine.
+
+Figure 1 represents a nucleic acid fragment that is made up of four nucleotides linked together in a chain.
+Which of the following characteristics of Figure 1 best shows that the fragment is RNA and not DNA?
+The identity of each nitrogenous base
+
+Water and ammonia interact to form hydrogen bonds, as represented in the figure.
+Which statement best helps explain the formation of the hydrogen bond represented in the figure?
+The nitrogen has a partial negative charge, and the hydrogen attached to the oxygen has a partial positive charge.
+
+All of the following cell components are found in prokaryotic cells EXCEPT
+nuclear envelope
+
+All eukaryotic cells contain at least one Golgi complex, typically located in the cytoplasm and near the endoplasmic reticulum.
+Which of the following best describes a process that occurs within the Golgi complex?
+Enzymatic modification of newly synthesized integral membrane proteins
+
+A team of biologists develop a new drug, and one team member hypothesizes that the drug is incapable of freely passing across the plasma membrane and requires the help of membrane proteins to enter cells. Alternatively, another biologist on the team hypothesizes that the drug can diffuse passively across the plasma membrane like O2 and CO2 can.
+Which of the following, if true about the drug, best supports the alternative hypothesis that the new drug will exhibit simple diffusion across plasma membranes?
+The drug is a small nonpolar molecule.
+
+Researchers claimed that a particular organelle originated from a free-living prokaryotic cell that was engulfed by a larger cell, as shown in Figure 1.
+Which of the following provides evidence to best support the researchers' claim?
+The organelle has a double membrane.
+
+Muscle cells have high ATP demands. Which of the following is a scientific claim about how the structure of the mitochondria in muscle cells should be different than it is in other cells because of the high energy demands of mitochondria?
+The inner membrane of the mitochondria in muscle cells should have more folds to increase the surface area, allowing more ATP to be synthesized.
+
+A spherical bacterial cell has a radius of 3μm. The human egg cell has a radius of 100μm.
+Which statement correctly indicates the cell that is able to more efficiently exchange materials with the external environment and provides a correct explanation?
+The bacterial cell, because it has the largest surface-to-volume ratio.
+
+Cholesterol is an important component of animal cell membranes. Cholesterol molecules are often delivered to body cells by the blood, which transports the molecules in the form of cholesterol-protein complexes. The complexes must be moved into the body cells before the cholesterol molecules can be incorporated into the phospholipid bilayers of cell membranes.
+Based on the information presented, which of the following is the most likely explanation for a buildup of cholesterol molecules in the blood of an animal?
+The animal's body cells are defective in endocytosis.
+
+The following questions refer to an experiment in which a dialysis-tubing bag is filled with a mixture of 3% starch and 3% glucose and placed in a beaker of distilled water, as shown below. After 3 hours, glucose can be detected in the water outside the dialysis-tubing bag, but starch cannot.
+From the initial conditions and results described, which of the following is a logical conclusion?
+The pores of the bag are larger than the glucose molecules but smaller than the starch molecules.
+
+Which of the following best describes the structures of carbohydrates?
+They occur as monomers, chains of monomers, and branched structures.
+
+Bacteriophages are viruses that infect bacteria. In an experiment, bacteriophages were labeled with either radioactive phosphorus or radioactive sulfur. The labeled bacteriophages were incubated with bacteria for a brief amount of time and then removed. The infected bacteria cells were found to contain significant amounts of radioactive phosphorus but not radioactive sulfur.
+Based on the results of the experiment, which of the following types of molecules did the bacteriophages most likely inject into the bacteria cells?
+DNA
+
+A common laboratory investigation involves putting a solution of starch and glucose into a dialysis bag and suspending the bag in a beaker of water, as shown in the figure below.
+The investigation is aimed at understanding how molecular size affects movement through a membrane.
+Which of the following best represents the amount of starch, water, and glucose in the dialysis bag over the course of the investigation?
+water goes up
+glucose goes down
+starch stays the same
+
+Which of the following statements best explains the processes of passive and active transport?
+Passive transport is the net movement of substances down a concentration gradient that does not require metabolic energy. Active transport is the movement of substances up a concentration gradient that requires energy.
+
+Which of the following best describes the numbered areas?
+Areas 1 and 3 are polar, since the membrane molecules are aligned with water molecules
+
+Membrane-bound organelles have been an important component in the evolution of complex, multicellular organisms. Which of the following best summarizes an advantage of eukaryotic cells having internal membranes?
+organelles isolate specific reactions, increasing metabolic efficiency.
+
+The carbohydrates glucose, galactose, and fructose have the same chemical formula (C6H12O6) but different structural formulas, as represented in the figure.
+Which of the following statements about glucose, galactose, and fructose is most likely true?
+The carbohydrates have different properties because they have different arrangements of carbon, hydrogen, and oxygen atoms.
+
+Researchers compared similar proteins from related organisms in different habitats. They found that the proteins from organisms living in harsh environments had a greater number of cysteine amino acids than did proteins from organisms not living in harsh environments. The structure of cysteine is shown. Bonds can form between the sulfur atom of different cysteine amino acids (S-S bonds).
+Which of the following best describes the effect of a greater number of cysteine amino acids on the stability of the proteins?
+The change leads to increased protein stability because of an increased number of S-SS-S bonds in the tertiary structure of the proteins.
+
+The figure shows a process by which a cell might absorb food from its surrounding environment and break it down for use as a source of energy and matter. The process involves lysosomes, which are membrane-bound organelles that contain hydrolytic enzymes. Activation of the hydrolytic enzymes requires an acidic pH, and lysosomes maintain an internal acidic pH by using ion pumps.
+Which of the following outcomes will most likely result from a loss of ion pump function in the cell's lysosomes?
+The internal pHpH of the lysosomes will increase, which will prevent the activation of hydrolytic enzymes and interfere with the intracellular digestion of food.
+
+A prokaryotic cell has which of the following?
+plasma membrane
+
+Figure 1 represents a common process that occurs in organisms.
+Which of the following is an accurate description of the process shown in Figure 1 ?
+The formation of a covalent peptide bond in a dehydration synthesis reaction
+
+Which of the following statements best describes how organisms such as rabbits obtain the carbon necessary for building biological molecules?
+Rabbits eat plants and break down plant molecules to obtain carbon and other atoms that they rearrange into new carbon-containing molecules.
+
+A pathogenic bacterium has been engulfed by a phagocytic cell as part of the nonspecific (innate) immune response. Which of the following illustrations best represents the response?
+the one with lysosomes
+
+Paramecia are unicellular protists that have contractile vacuoles to remove excess intracellular water. In an experimental investigation, paramecia were placed in salt solutions of increasing osmolarity. The rate at which the contractile vacuole contracted to pump out excess water was determined and plotted against osmolarity of the solutions, as shown in the graph. Which of the following is the correct explanation for the data?
+The contraction rate increases as the osmolarity decreases because the amount of water entering the paramecia by osmosis increases.
+
+Which of the following modifications to the experimental design would improve the reliability of the results presented in figure 1?
+B. Measuring blood glucose levels in a group of mice that were not given STZ
+
+Which of the following conclusions is best supported by the data presented in figure 1?
+B. Implanted hESC-b cells are effective at regulating blood glucose levels in the absence of mice b-cells
+
+Which of the following best justifies the researchers' claim that hESC-b implants can functionally replace the mouse's naturally occurring b-cells?
+D. The mouse with an h-ESC B implant successfully regulated blood glucose levels by regenerating
+
+In contrast to type 1 diabetes, where there is no inclusion production, type 2 diabetes is characterized by a failure...
+A. The treatment would fail because insulin produced by implanted hESC-B cells will not stimulate glucose uptake by body cells
+
+Based on the data, which of the following best represents how the mice with the implanted hESC- B cells use negative feedback to return
+C. Increased insulin secretion by hESC-b cells
+
+B cells are activated by direct contact with antigens (th chart)
+A. Activated B cells differentiate into plasma cells and memory cells
+
+Which of the following best describes the structure of the viral genome
+B. Single-stranded DNA
+
+Which of the following communities is likely to be most stable?
+C. One with high species diversity
+
+Which of the following is true about the structure of the prokaryotic cell represented in the figure
+C. It has a cell wall exterior to the plasma membrane and contains ribosomes
+
+Some blackcaps that migrate to UK have become distinguishable by certain physical and behavioral traits
+B. The blackcaps that migrate to the UK will become reproductively isolated from the blackcaps that migrate to Spain, resulting in speciation in the blackcap population
+
+The endocrine system incorporates feedback mechanisms that maintain homeostasis. Which of the following demonstrates negative feedback by the endocrine system
+After a meal, blood glucose levels become elevated, stimulation beta beta cells of the pan crease to release insulin into the blood. Excess glucose is then converted to glycogen in the liver, reducing blood glucose levels
+
+Which of the following is true
+Although hormones are carries to all parts of the body, they produce effects only in cells with proper receptors
+
+Which endocrine glands are often called the master control center
+Hypothalamus and pituitary
+
+The graph above shows changes in glucagon and insulin secretions at different concentration of blood glucose. Which of the following feedback mechanisms is best supported by the data
+A low glucose level causes the release of glucagon, which stimulates the release of more glucose from tissues, which in turn lowers the amount of glucagon being released
+
+The center of conscious and intelligence is the
+Cerebrum
+
+Which of the following immune system system components is correctly matched to its function
+Helper T cell: activates B cells
+
+Multiple sclerosis is a degenerative disease that is caused by the immune response attacking the myelin sheath that surrounds the nerves of the central nervous system. How would an immunologist classify this disease
+An autoimmune disorder
+
+A group of researchers believe that they have extracted a new hormone from the cells of the pancreas. They attempt to characterize the hormone, and find it is fat soluble. Choose the most likely mechanism of action for the hormones target cells
+The hormone moves into a cell and causes changes in gene expression in the nucleus
+
+When a stimulus is applied to a receptor in the skin, an action potential is propagated along a neuron to the brain, where another signal is sent back to then muscle for response.
+Which of the following best describes what occurs when the action potential reaches a chemical synapse at the end of an axon
+The action potential cause a release of neurotransmitter that travel across the synapse
+
+An effective vaccine does all of the following except
+Produce passive immunity
+
+A human kidney filter about 200 liters of blood each day. Approximately 2 liters of liquid and nutrients waste are excreted as urine. The remaining fluid and dissolve substances are reabsorbed and continue to circulate throughout the body. ADH is secreted in response to reduce plasma volume. ADH targets this collection ducts in the kidney, stimulating the insertion of aquaporions into their plasma membrane and an increased reabsorption of water
+The person would produce greater amounts of dilute urine
+
+The barriers of invasion by microbes can involve
+All of these
+
+A dog is following the scent of a jackrabbit . Which of the following accurately describes how the dogs brain integrates information for smell
+Chemoreceptors cells in the nasal cavity send impulses to the appropriate area of the brain
+
+Control of body temperature is an example of which of the following
+Both homeostatic mechanism and negative feedback system
+
+What happens at time C of the action potential
+Potassium gates close and sodium gates open
+
+a cell that contains proteins enabling a hormone to selectively bind to its plasma membrane is called a
+target cell
+
+only certain cells in the body are target cells for the steroid hormone aldosterone. which of the following is the best explanation for why these are the only cells that respond to this hormone?
+only target cells contain receptors for aldosterone
+
+which of the following glands show both endocrine and exocrine activity?
+pancreas
+
+the endocrine system incorporates feedback mechanisms that maintain homeostasis. Which of the following demonstrates negative feedback by the endocrine system?
+after a meal, blood glucose levels become escalated, stimulating beta cells of the pancreas to release insulin into the blood...
+
+the secretion of hormone A causes a change in the amount of protein X in an organism. If this mechanism works by positive feedback, which of the following statements represents that fact?
+an increase in A produces an increase in X
+
+The diagram above illustrates feedback control as exerted by the hormone thyroxine. Following surgical removal of the thyroid gland, the level of TSH in the blood will increase. Which of the following best explains this increase?
+a decrease in thyroxine levels means a loss of inhibition to the hypothalamus and anterior pituitary, leading to increased TSH secretion
+
+Which picture below best represents how testosterone can alter gene expression of these proteins
+A
+
+When an individual is subject to short-term starvation, most available food is used to provide energy rather then building blocks. Which hormone would be particularly active in times of food stress?
+glucagon
+
+What happens when beta cells of the pancreas release insulin into the blood?
+body cells take up more glucose
+
+The graph above shows changes in glucagon and insulin secretions at different concentrations of blood glucose. Which of the following feedback mechanisms is best supported by the data?
+a low glucose level causes the release of glucagon, which stimulates the release of more glucose from the tissues, which in turn lowers the amount of glucagon being released
+
+How many chromosomes are in a human primary spermatoctye
+46
+
+how many chromosomes are in a human spermatid
+23
+
+sperm gain full mobility in the
+epididymis
+
+..... Assuming the AAS function in the same way as naturally occurring testosterone. It is most likely that long-term abuse of AAS would
+reduce sperm production
+
+in vertebrae animals during the process of oogenesis, one primary oogonium develops into ___ active egg cells
+1
+
+In human females, fertilization normally occurs in the ____ and implantation occurs in the ____
+oviduct, uterus
+
+what does gastrulation accomplish
+it causes inward folding of a blastula leading to the beginning of a digestive tract and three distinct germ tissue layers
+
+Master genes that control the expression of other genes responsible for anatomical structures are called
+hox genes
+
+which of the following claims is supported by the data?
+gene A promotes neuron development and gene B promotes programmed cell death in neuronal precursors
+
+this layer gives rise to the brain and eyes
+ectoderm
+
+this layer givers rise to the lining of the digestive tract
+endoderm
+
+this later gives rise to bones and blood
+mesoderm
+
+this hormone causes labor
+oxytocin
+
+this hormone is released by the hypothalamus and stimulates anterior pituitary to release other homrones
+GnRH
+
+this hormone stimulates the development of the egg inside the growing follicle
+FSH
+
+this hormone is responsible for thickening the endometrial lining of the uterus
+estrogen
+
+this hormone stimulates sperm production
+FSH
+
+this hormone is what is used in pregnancy test
+hCG
+
+Which of the following functional differences between the rough and smooth endoplasmic reticulum (ER)
+is explained by the structural differences between them?
+D. rough can synthesize and package proteins for export, and smooth cannot.
+
+Which of the following statements best explains the processes of passive and active transport?
+b. passive transport is the net movement of substances down a concentration gradient that does not require metabolic energy. Active transport is the movement of substances up a concentration gradient that requires energy.
+
+The endosymbiont theory proposes a model for the evolution of mitochondria. According to the model, an ancestral eukaryote engulfed a small, free-living prokaryotic organism. The engulfed prokaryote then formed an endosymbiotic relationship with the eukaryotic host.
+
+Which of the following observations best supports the model?
+Mitochondria and some prokaryotes share similar metabolic reactions that produce ATP
+ATP
+
+Which of the following statements best predicts the effect of increasing the permeability of the mitochondrial membranes to large molecules?
+ATP production will decrease because of an increase in the occurrence of uncontrolled chemical reactions.
+
+Muscle cells have high ATP
+demands. Which of the following is a scientific claim about how the structure of the mitochondria in muscle cells should be different than it is in other cells because of the high energy demands of mitochondria?
+a. The inner membrane of the mitochondria in muscle cells should have more folds to increase the surface area, allowing more ATP
+ATP to be synthesized.
+
+Plant cell walls are composed of cellulose, while fungal cell walls are composed of chitin. A group of scientists hypothesize that this difference means the cell wall has largely different functions in plant cells and fungal cells. Alternatively, another group of scientists hypothesize that despite their biochemical differences, plant and fungal cell walls serve similar functions.
+
+Which of the following observations would best support the alternative hypothesis described above?
+b. in both plant cells and fungal cells, the cell wall surrounds the outside of the cell membrane.
+
+Cholesterol is an important component of animal cell membranes. Cholesterol molecules are often delivered to body cells by the blood, which transports the molecules in the form of cholesterol-protein complexes. The complexes must be moved into the body cells before the cholesterol molecules can be incorporated into the phospholipid bilayers of cell membranes.
+
+Based on the information presented, which of the following is the most likely explanation for a buildup of cholesterol molecules in the blood of an animal?
+b. The animal's body cells are defective in endocytosis.
+
+All eukaryotic cells contain at least one Golgi complex, typically located in the cytoplasm and near the endoplasmic reticulum.
+
+Which of the following best describes a process that occurs within the Golgi complex?
+a. Enzymatic modification of newly synthesized integral membrane proteins
+
+Changing the shape or morphology of the mitochondrial inner membrane can change the efficiency of mitochondrial function.
+
+Which of the following outcomes will most likely result from a change in the shape of the mitochondrial inner membrane from a highly folded surface to a smooth, flat surface?
+d. Mitochondria will become less efficient because the surface area of the inner mitochondrial membranes will decrease.
+
+Which of the following claims is scientifically accurate and consistent with an observation that a decrease in lysosome production within a cell leads to a decline in mitochondrial activity?
+b. Fewer lysosomes will be available to break down macromolecules to provide the necessary nutrients for cellular respiration.
+
+Aquaporins are channel proteins that facilitate the transport of water across the cell membrane. One group of researchers hypothesizes that without functional aquaporins, no water will be able to enter the cell. A different group proposes an alternative hypothesis, stating that even with nonfunctional aquaporins, a small amount of water will still cross the cell membrane. An experiment is set up in which plant cells with mutated (nonfunctional) aquaporins and plant cells with normally functioning aquaporins are both placed in distilled water.
+
+Which of the following data would support the alternative hypothesis?
+d. Cells with mutated aquaporins exhibit moderate turgor pressure and are hypertonic.
+
+Which statement best describes the effect on water transport across the cell membrane if the aquaporin in the figure ceases to function?
+b. Water molecules will still be able to move across the cell membrane but at a slower rate.
+
+All of the following cell components are found in prokaryotic cells EXCEPT
+d. nuclear envelope
+
+An investigator wants to understand whether a newly found membrane protein is involved in membrane transport of a certain particle. Which investigation will help determine whether the new membrane protein is a channel protein involved in membrane transport?
+c. Add more of the proteins to the plasma membrane and measure the rate of the particle movement.
+
+A prokaryotic cell has which of the following?
+c. plasma membrane
+
+Process in which O2 is released as a byproduct of oxidation-reduction reactions
+light dependent reactions
+
+In a hypotonic solution, an animal cell will
+lyse
+
+Which of the following groups contains prokaryotic organisms capable of surviving the greatest extremes in temperature or salt concentration?
+arachaebacteria
+
+An organelle that is characterized by extensive, folded membranes and is often associated with ribosomes
+endoplasmic reticulum
+
+Water enters and leaves the plant cells primarily by
+osmosis
+
+A student using a light microscope observes a cell and correctly decides that it is a plant cell because
+it has a large central vacuole
+
+Process in which sugar is oxidized to pyruvic acid
+glycolysis
+
+Simple diffusion and facilitated diffusion are related in that both
+depend on a concentration gradient
+
+During respiration, most ATP is formed as a direct result of the net movement of
+electrons through a channel
+
+A large stand of aspen trees may be a group of genetically identical individuals produced by vegetative reproduction. Such a collection is called a
+clone
+
+Site of transport of materials into and out of the cell
+cell membrane
+
+A prokaryotic cell has which of the following?
+cell membrane
+
+Single membrane structures in the cell that perform many metabolic functions and produce hydrogen peroxide
+peroxisomes
+
+In a mesophyll of a leaf, the synthesis of ATP occurs in which of the following? I. ribosomes II. mitochondria III. chloroplasts
+II and III
+
+On a sunny day, the closing of stomata in plant leaves results in
+a decrease in CO2 intake
+
+Which letter represents the activation energy of the enzyme-catalyzed reaction?
+B
+
+Which of the following best supports the statement that mitochondrion are descendants of endosymbiotic bacteria-like cells?
+mitochondrion and bacteria possess similar ribosomes and DNA
+
+Which of the following processes is carried out more efficiently by a C4 plant than by a C3 plant?
+fixation of CO2
+
+Process in which CO2 is released as a byproduct of oxidation-reduction reactions
+krebs cycle
+
+From the perspective of the cell receiving the message, the three stages of cell signaling are
+signal reception, signal transduction, and cellular response
+
+Which letter represents the net energy change of the reaction?
+D
+
+Which organelle contributes to the formation of the cell plate in plant cells during cytokinesis?
+golgi
+
+All of the following are typical components of the plasma membrane of a eukaryotic cell EXCEPT
+cytochromes
+
+Which of the following is best observed by using a compound light microscope?
+a eukaryote
+
+Process found in both photosynthesis and cellular respiration
+chemiosmosis
+
+Dialysis tubing is filled with 3% starch and 3% glucose and placed in a beaker of distilled water, after 3 hours glucose can be detected outside the bag, but starch cannot.
+Which best describes the condition expected after 24 hours?
+the bag will contain more water than it did in the original condition
+
+Process in which carbon from CO2 is incorporated into organic molecules
+calvin cycle
+
+Which of the following is an example of active transport across a membrane?
+movement of H+ into a thylakoid disc during photosynthesis
+
+Which of the following pathways for the transformation of cellular energy most likely evolved first?
+glycolysis
+
+Site of glucose synthesis
+chloroplast
+
+The sites of cellular respiration
+mitochondria
+
+Dialysis tubing is filled with 3% starch and 3% glucose and placed in a beaker of distilled water, after 3 hours glucose can be detected outside the bag, but starch cannot.
+Which of the following is a logical conclusion?
+the pores of the bag are larger than the glucose molecules but smaller than the starch molecules
+
+A + B --> AB + energy
+exergonic
+
+Membranes are components of all of the following EXCEPT a
+microtubule
+
+Dialysis tubing is filled with 3% starch and 3% glucose and placed in a beaker of distilled water, after 3 hours glucose can be detected outside the bag, but starch cannot.
+If, instead of a bag, a potato slice were placed in the beaker of distilled water, which of the following would be true for the potato slice?
+it would gain mass
+
+Prokaryotic and eukaryotic cells generally have which of the following features in common?
+ribosomes
+
+Large molecules are moved out of the cell by which of the following processes?
+exocytosis
+
+Division of the cytoplasm of the cell
+cytokinesis
+
+A + B --> AB Which of the following best characterizes the reaction represented above?
+endergonic
+
+Oxygen consumption can be used as a measure of metabolic rate because oxygen is
+necessary for ATP synthesis by oxidative phosphorylation
+
+Sister chromatids begin to separate during which phase?
+anaphase
+
+After which of the following checkpoints in the cell cycle is the cell most likely fated to divide?
+G1
+
+Which of the following cells would most likely have the greatest concentration of densely packed rough E.R.?
+a pancreatic cell engaged in the production of digestive enzymes
+
+In a cell signal, how is the flow of specific ions regulated?
+opening and closing of ligand-gated ion channels
+
+Which of the following organelles modifies and packages for secretion the materials produced by the ribosomes?
+golgi
+
+The genetic material of the cell replicates to prepare for cell division during
+interphase
+
+Which of the following processes is coupled with the hydrolysis of ATP?
+active transport
+
+explain the difference between organic and inorganic compounds
+Organic compounds contain carbon and inorganic compounds do not.
+
+many biological structures are composed of smaller units assembled into more complex structures having functions based on their structural organization. for the following complex structures, describe the smaller units, their assembly into larger structures, and one major function of these larger, organized structures: and enzyme
+ENZYME: protein made up of amino acid monomers. (small unit) amino acids are joined by peptide bonds to make polypeptides, which fold into proteins.
+
+bacteriophages are viruses that infect bacteria. in an experiment, bacteriophages were labeled with either radioactive phosphorus or radioactive sulfur. the labeled bacteriophages were incubated with bacteria for a brief amount of time and then removed. the infected bacteria cells were found to contain significant amounts of radioactive phosphorus but not radio active sulfur.
+based on the results of the experiment, which of the following types of molecules did the bacteriophages most likely inject into the bacteria cells? how do you know?
+radioactive phosphorus was used and nuclei acids are the only macromolecule that contains phosphorus.
+
+the secondary compound cyanide is a toxic, bitter-tasing chemical that is found in apple seeds. cyanide in seeds is only released and tasted if the seed is crushed. when animals eat apples, they typically eat the sweet fleshy part of the fruit and spit out the seeds or swallow them whole.
+
+based on the chemical structure of cyanide, identify one type of biological macromolecule that could serve as a chemical precursor for the production of cyanide in a plant. justify your answer.
+cyanide could be made from the acids in proteins or nucleus acids. both of these molecules contain N, which is needed for cyanide.
+
+the stems and fruits of pineapple plants contain a group of protein digesting enzymes collectively called bromelain often used as an anti browning agent for fruits and vegetables. fruits and vegetables brown when they are bruised during transport or sliced and exposed to air. this browning is controlled by enzymatic pathways that produce brown pigments. the browning of fruits and vegetables reduces the nutritional value of the food, so anti browning agents such as bromelain are used.
+
+a.) identify the type of monomer of which this enzyme is composed
+b.) bromelain works by breaking the enzymes that cause browning into smaller molecules. explain how the reaction that breaks up the enzymes occur
+a.) Bromelain is an enzyme; enzymes are proteins composed of amino acid monomers.
+b.) hydrolysis reactions break apart polymers by adding water and breaking covalent bonds.
+
+the carbohydrates glucose, galactose, and fructose have the sa,e chemical formula (c6h12o6) but different structural formulas, as represented in the figure. are the properties of the molecules the same? why or why not?
+these molecules are isomers. no, the properties are not the same, structure determines function and their structures are different.
+
+describe how organisms such as rabbits obtain the carbon necessary for building biological molecules.
+rabbits contain carbohydrates that are produced by plants when the plants undergo photosynthesis. the carbohydrates eaten by the rabbits are broken down by hydrolysis and the atoms from the carbs rearranged to form lipids.
+
+researchers compared similar proteins from related organisms in different habitats, they found the proteins from organisms living in harsh environments had a greater number of cysteine amino acids that did proteins from organisms not living in harsh environments. the structure of cystine amino acids (S-S bonds). how does the number of S-S bonds affect the stability of the protein? which level of protein structure is affected?
+disulfide bonds (S-S) are "super strong" and are part of the tertiary structure of a protein. proteins with more cysteine amino acids (contains s-sh group) have more disulfide bonds/bridges and are therefore more stable. this stability is important in harsh environments.
+
+draw a water molecule the. label the partial charges and list two properties of water.
+adhesive and cohesive
+
+the physical structure of a protein often reflects and affects its function.
+describe three types of chemical bonds/interactions found in proteins. for each type, describe its role in determining protein structure.
+covalent peptide bonds between amino acids form the primary structure.
+hydrogen bonds between amine and carboxyl groups form the secondary structure of fibrous proteins.
+hydrogen bonds, disulfide bridges/bonds, and hydrophobic interactions between R-groups for the tertiary structure. this structure determines the function of the protein.
+
+the molecular structures of linoleic acid and palmitic acid, two naturally occurring substances, are shown in the figure. based in the molecular structures shown in the future, which molecule is likely to be solid at room temperature? why?
+palmatic acid is a lipid with a long saturated hydrocarbon chain. it is saturated with hydrogen because there are no double bonds between carbon atoms. saturated fatty acids are solid at room temp.
+
+water and ammonia interact with hydrogen bonds, as represented in the figure. which parts of these molecules have a partial positive charge? negative charge? how/where does a hydrogen bond form.
+the hydrogen bonds exist between the partially positive hydrogen of water and the partially negative nitrogen of ammonia.
+
+the diagram shows water molecules as solid ice at 0c and as a liquid at 25c
+describe how hydrogen form in water molecules. explain why ice floats in liquid water
+hydrogen bonds form between the partially negative oxygen of one water molecule and the partially positive hydrogen of a different water molecule.
+liquid water is more dense (water molecules are closer together) than ice. when hydrogen bonds form at temperatures below 0C / 32F, hydrogen bonds lead to the formation of a crystal like structure
+
+a small protein is composed of 110 amino acids linked together in a chain. as shown in figure 1 the first and last five amino acids in the chain are hydrophobic (have nonpolar and uncharged R-groups), whereas the remaining 100 amino acids are hydrophilic (have charged or polar R- groups). the nature of the R- group determines if the amino acid is hydrophobic or hydrophilic.
+a mutation results in the production of a version of the small protein that is only 105 amino acids long, as shown in figure 2. five of the hydrophobic amino acids are missing from one end of the change.
+describe how the mutation would change the tertiary structure of the protein. be specific.
+in figure 1, the two hydrophobic sections form a loop due to the hydrophobic interactions. the hydrophilic sections would surround the hydrophobic sections.
+in figure 2, the polypeptide would not form a loop because the nonpolar amino acids are missing from the c-terminus.
+
+describe the process occurring in this model
+two amino acid monomers are joined by a covalent bond when a dehydration synthesis occurs. this reaction form a dipeptide and a water molecule.
+
+describe the reaction occurring in this model. which type of macromolecule is is?
+a polypeptide bond is broken into two half's by a hydrolysis reaction, which requires the addition of h2o
+
+This figure shows he air water interface. describe the bonds and interactions between water molecules that would allow and insect to walk on the surface of the water.
+hydrogen bonds between water molecules creates surface tension
+
+describe how amino acids affect the tertiary structure of proteins
+the r-groups of amino acids form hydrogen bonds, disulfide bridges/bonds, hydrophobic interactions, and ionic bonds to create tertiary structures.
+
+the synthesis of protein or carbohydrate polymers always produces what as a byproduct?
+h2o (dehydration synthesis creates polymers)
+
+why does water have so many unique properties
+hydrogen bonding
+
+which type of bond is responsible for the cohesion of water molecules? which atoms does this bond form between?
+hydrogen binding between the O of one water molecule and the H of another water molecule.
