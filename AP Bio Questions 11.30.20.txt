@@ -11751,3 +11751,1148 @@ Pre-mRNAmRNA of gene LL is subject to alternative splicing, so three mRNAmRNA se
 
 Which of the following correctly explains where DNA replication will begin on the strand oriented 5'→3', reading from left to right?
 DNADNA replication will be initiated immediately to the left of the RNARNA, since DNADNA polymerase requires an RNARNA primer
+
+When DNA replicates, each strand of the original DNA molecule is used as a template for the synthesis of a second, complementary strand. Which of the following figures most accurately illustrates enzyme-mediated synthesis of new DNA at a replication fork?
+D (the one with multiple arrows on the top going left, one big arrow on the bottom going right)
+
+Iron is an essential nutrient that is acquired by organisms from the environment. When intracellular levels of iron are relatively high, living cells synthesize an iron-storage protein called ferritin.
+
+The induction of ferritin synthesis by iron was investigated in rats. Figure 1 shows the results of an experiment in which cellular levels of ferritin protein were measured in the presence or absence of iron and actinomycin D, a drug that inhibits transcription.
+
+Figure 2 shows the results of an experiment in which cellular levels of ferritin protein were measured in the presence or absence of iron and cycloheximide, a drug that inhibits translation.
+
+The data can best be used to support which of the following claims about the mechanism for regulating ferritin gene expression?
+Iron increases ribosome binding to ferritin mRNA.
+
+Antibiotics can be used to kill the specific pathogenic bacterium, Mycobacterium tuberculosis, that causes tuberculosis. The appearance of antibiotic-resistant strains has made it more difficult to cure M. tuberculosis infections. These antibiotic-resistant bacteria survive and pass on the genes to their offspring, making the resistant phenotype more common in the population.
+DNA analysis indicates that the genes for antibiotic resistance are not normally present in bacterial chromosomal DNA.
+Which of the following statements best explains how the genes for antibiotic resistance can be transmitted between bacteria without the exchange of bacterial chromosomal DNA?
+The genes for antibiotic resistance are located on a plasmid that can be passed to neighboring bacteria.
+
+During the infection cycle for a typical retrovirus, such as HIV, which uses RNA as genetic material, the genetic variation in the resulting population of new virus particles is very high because of
+recombination of the genomes of free virus particles
+
+The first diagram below shows the levels of mRNA from two different genes (bicoid and caudal) at different positions along the anterior-posterior axis of a Drosophila egg immediately before fertilization. The second diagram shows the levels of the two corresponding proteins along the anterior-posterior axis shortly after fertilization.
+Which of the following conclusions is best supported by the data?
+Bicoid protein inhibits translation of caudal mRNA.
+
+Figure 1 shows some relevant details of a model of how a deoxynucleotide, in this case dTMP, is added to a growing strand of DNA.
+Figure 1. Model showing details of adding a deoxythymidine monophosphate (dTMP) nucleotide to a growing strand of DNA
+The features of this model provide evidence for which explanation of why all growing strands are synthesized in a 5′ to 3′ direction?
+The phosphate group, attached to the 5′ carbon of the dTMP, forms a covalent bond with the oxygen atom attached to the 3′ carbon of the growing strand.
+
+As represented in Figure 1 and Figure 2, the phenotypic difference between marine and freshwater sticklebacks involves Pitx1, a gene that influences the formation of the jaw, pituitary gland, and pelvic spine. Enhancer sequences upstream of the Pitx1 genetic locus regulate expression of the Pitx1 gene at the appropriate times and in the appropriate tissues during development. Previous studies have found that a mutation in the hindlimb enhancer interferes with the formation of a pronounced pelvic spine.
+A mutation that affects Pitx1 gene function in all tissue types is most likely to be at which of the following genetic loci?
+Promoter
+
+The CFTR protein is made up of 1,4801,480 amino acids linked together in a chain. Some humans produce a version of the CFTR protein in which phenylalanine (an amino acid) has been deleted from position 508 of the amino acid chain.
+Which of the following best predicts how the amino acid deletion will affect the structure of the CFTR protein?
+It will affect the primary, secondary, and tertiary structures of the CFTR protein.
+
+Antigens are foreign proteins that invade the systems of organisms. Vaccines function by stimulating an organism's immune system to develop antibodies against a particular antigen. Developing a vaccine involves producing an antigen that can be introduced into the organism being vaccinated and which will trigger an immune response without causing the disease associated with the antigen. Certain strains of bacteria can be used to produce antigens used in vaccines.
+Which of the following best explains how bacteria can be genetically engineered to produce a desired antigen?
+The gene coding for the antigen can be inserted into plasmids that can be used to transform the bacteria.
+
+The functions of the loci of the lac operon shown in the diagram are described in the table below. The diagram above represents a segment of the E. coli chromosome that contains the lacI gene and part of the lac operon, a coordinately regulated set of genes that are required for the metabolism of lactose. The presence of lactose, which causes the repressor to be released from the operator, results in increased transcription of the lac operon.
+Bacterial cells that contain green fluorescent protein (GFP) will fluoresce under ultraviolet light. Which of the following is the most likely outcome of replacing the lacZ gene in the E. coli lac operon with the gene encoding GFP?
+Bacteria growing in the presence of lactose will fluoresce under ultraviolet light.
+
+The diagram above represents a segment of the E. coli chromosome that contains the lacI gene and part of the lac operon, a coordinately regulated set of genes that are required for the metabolism of lactose. The presence of lactose, which causes the repressor to be released from the operator, results in increased transcription of the lac operon.
+Which of the following describes the most likely consequence of a negative feedback pathway involving the lac operon?
+Expression of the lac operon diminishes as lactose is depleted.
+
+Students subjected three samples of five different molecules to gel electrophoresis as shown in Figure 1. Which of the following statements best explains the pattern seen on the gel with regard to the size and charge of molecules A and B?
+Molecules AA and BB are negatively charged, and molecule AA is smaller than molecule BB.
+
+In a transformation experiment, a sample of E. coli bacteria was mixed with a plasmid containing the gene for resistance to the antibiotic ampicillin (ampr). Plasmid was not added to a second sample. Samples were plated on nutrient agar plates, some of which were supplemented with the antibiotic ampicillin. The results of E. coli growth are summarized below. The shaded area represents extensive growth of bacteria; dots represent individual colonies of bacteria.
+In a second experiment, the plasmid contained the gene for human insulin as well as the ampr gene. Which of the following plates would have the highest percentage of bacteria that are expected to produce insulin?
+IV only
+
+The enzyme lactase aids in the digestion of lactose, a sugar found in the milk of most mammals. In most mammal species, adults do not produce lactase. Continuing to produce lactase into adulthood in people is called lactase persistence. A number of different alleles have been identified that result in lactase persistence. Figure 1 shows the percentage of people in different geographic areas parts of the Old World that exhibit lactase persistence.
+
+Which of the following best explains the distribution of lactase persistence in the areas shown in Figure 1 ?
+Mutations conferring lactase persistence likely arose independently in different geographic areas and offered a selective advantage.
+
+Lactose digestion in E. coli begins with its hydrolysis by the enzyme β-galactosidase. The gene encoding β-galactosidase, lacZ, is part of a coordinately regulated operon containing other genes required for lactose utilization.
+Which of the following figures correctly depicts the interactions at the lac operon when lactose is NOT being utilized? (The legend below defines the shapes of the molecules illustrated in the options.)
+...
+
+Both liver cells and lens cells have the genes for making the proteins albumin and crystalline. However, only liver cells express the blood protein albumin and only lens cells express crystalline, the main protein in the lens of the eye. Both of these genes have enhancer sequences associated with them.
+The claim that gene regulation results in differential gene expression and influences cellular products (albumin or crystalline) is best supported by evidence in which of the following statements?
+Liver cells possess transcriptional activators that are different from those of lens cells.
+
+Phytochromes are molecules that change light stimuli into chemical signals, and they are thought to target light-activated genes in plants. A study was conducted to determine how certain cell proteins were made in a plant cell using a phytochrome. Figures 1 and 2 represent findings from the study.
+
+Use the response models shown in Figures 1 and 2 to justify the claim that phytochromes regulate the transcription of genes leading to the production of certain cellular proteins.
+When inactive phytochrome PrPr is activated by red light to become phytochrome PfrPfr, it is transported into the nucleus where it binds to the transcription factor PIF3PIF3 at the promoter. This stimulates transcription, ultimately leading to protein production. Far-red light inactivates the phytochrome, which will turn transcription off by not binding to PIF3PIF3.
+
+Figure 1 illustrates processes related to control of transcription and translation in a cell.
+
+Figure 1. Model of a relationship between a transcription factor and selected genes
+
+Which of the following scientific claims is most consistent with the information provided in Figure 1 ?
+Different genes may be regulated by the same transcription factor.
+
+Sickle-cell anemia is an inherited blood disorder in which one of the hemoglobin subunits is replaced with a different form of hemoglobin. Partial DNA sequences of the HBB gene for normal hemoglobin and for sickle-cell hemoglobin are shown in Figure 1.
+
+Which of the following best describes the type of mutation shown in Figure 1 that leads to sickle-cell anemia?
+Substitution
+
+Which of the following correctly compares the two processes shown above?
+Both processes increase genetic variation.
+
+Which of the following is most likely to create genetic variation in a population?
+DNA polymerase errors during replication
+
+the food web represented above does not include bacteria and fungi. whcih of the following best describes a consequence of having no bacteria and fungi in the food web?
+grasses will have no direct access to chemical components recycled from dead organisms
+
+the following DNA sequence is a small part of the coding (nontemplate) strand from the open reading fram of the B-hemoglobin gene. Given the codon chart listed below, what would be the effect of a mutation that deletes the G at the beginning of the DNA sequence?
+the reading frame of the sequence would shift, causeing a change in the amino acid sequence after that point
+
+which of the following questions might scientists ask to most reliably determin if there has ever been life on Mars?
+did Mars have elements present in its atmosphere to support life?
+
+Cortisol is a hormone produced in response to stress, including starvation, in humans. Which of the following is most likely an immediate effect of a starvation induced increase in cortisol secretion?
+increased mobilization of gatty acids from fat cells
+
+which of the following is the most likely consequence of adding ciproflozacin to animal feed?
+ciprofloxacin resistant strains of C. jejuni will have a selective advantage in the digestive tracts of livestock, increasing the risk of serious infection in people
+
+the table above shows derived characters for selected organisms. Based on the information in the table, which of the following cladograms best represents the evolutionary relationships among the organisms?
+Fish breaks off first
+
+damaged tissue releases chemicals that activate platelets and stimulate the formation of blood clots. WHich of the following predictions about the activity of platelets best describes a positive feedback mechanism?
+activated platelets release chemicals that activate more platelets
+
+based on the results of the experiment, which of the following types of molecules did the bacteriophages most likely inject into the bacteria cells?
+DNA
+
+which of the following conclusions is best supported by the results of the experiment?
+neither population grows as large when cultured together as each does when cultured separately
+
+the difference in carrying capacity between the two species when cultured separately is closests to which of the following values?
+350 individuals per 5.0 mL
+
+which of the following statements best justifies th euse of the experimental results in an investigation of interspecies competition?
+when two populations use the same sources of energy, resource availability in a shared environment limits the growth of both populations
+
+if the mixed populations were cultured for an additional 25days, which of the following predictions would be consistent with the data?
+one population would stabilize at a large size, and the other population would be eliminated from the culture
+
+based on the experimental results, which of the following statements best describes the relationship of the two populations that were studies in the investigation?
+the populations have a competitive relationship in which each species limits the ability of the other to reproduce
+
+Percent of moths recaptured in two different environments which of the following claims is best supported by the data?
+dark colored moths were more likely to be recaptured in the polluted environment than in the unpolluted environment, suggesting an increased chance of reproductive success
+
+which of the following question about the origin of life on Earth is most scientifically testable?
+can simple organic molecules form spontaneously in an oxygen free atmosphere
+
+a microelectrode is inserted into a neruon. A voltage recorder then measure the voltage difference between the microelectrode inside the cell and an electrode placed outside the cell. Which of the following plots most accurately represents the changes in membrane protential throughout a single action potential?
+positive graph with bumps going up and down
+
+the diagram above depicts a karyotype of an individual human. Which of the following statements concerning the karyotype in the diagram is true
+the diagram illustrates the results of nondisjunction during gamete formation
+
+the graph above represents the proportions of hatchlings of certain types of reptiles that are male at different egg incubation temperatures. Which of the following claims is best supported by the data?
+the expression of sex determination genes in certain reptiles is influenced by temperature
+
+which of the following modifications to the experimental design would improve the reliability of the results presented in figure 1
+measuring blood glucose levels in a group of mice that were not given STZ
+
+which of the following conclusions is best supported by the data presented in figure 1
+implanted hESC-B cells are effective at regulating blood glucose levels in the absence of mouse B-cells
+
+based on the data in figure 2, which of the following best justifies the researchers' claim that hESC-B implants can functionally replace the mouse's naturally occurring B-cells?
+the mouse with an hESC-b implant successfully regulated blodd glucose levels after STZ treatment but not after the implant was removed
+
+in contrast to type 1 diabetes, where ther is no insulin production, type 2 diabetes is characterized by a failture of body cells to respond normally to insulin. Based on the results of the experiment, which of the following best predicts the effectiveness of unsing hESC-B implantation to treat type 2 diabetes?
+the treatment would fail because insulin produced by implanted hESC-B cells will not stimulate glucose uptake by body cells
+
+based on the data, which of the following best represents how the mice with the implanted hESC-B cells use negative feedback to return blood glucose levels to normal ig blood glucose levels increase?
+increased insulin secretion by hESC-B cells --> increased glucose uptake by body cells --> decreased insulin secretion by hESC-B cells
+
+as represented in the moel above, B cells are activated by direct contact with antigens or stimulated helper T cells (Th) Based on the model, which of the following best describes an outcome of B cell activation?
+activated B cells differentiate into plasma cells and memory cells
+
+a student analyzed a viral genome and found that the genome had the following nucleotide composition. which of the following best describes the structure of the viral genome?
+single stranded DNA
+
+which of the following communities is likely to be most stable?
+one with high species diversity
+
+which of the following is true about the structure of the prokaryotic cell represented in the figure?
+it has a cell wall exterior to the plasma membrane and contains ribosomes
+
+some blackcaps that migrate to the United Kingdom have become distinguishable by certain physical and behavioral traits from blackcaps that migrate to Spain. Which of the following best predicts the effect on the blackcap population if humans in the United Kingdom continue to place food in feeders during the winter?
+the blackcaps that migrate to the United Kingdom will become reproductively isolated from the blackcaps that migrate to Spain, resulting in speciation in the blackcap population
+
+which of the following is the most likely consequence of a mutation at the operator locus that prevents binding of the repressor protein?
+beta-galactosidase will be produced, even in the absence of lactose
+
+which of the following describes the most likely consequence of a negative feedback pathway involving the lac operon?
+expression of the lac operon diminishes as lactose is depleted
+
+which of the following best explains the contribution of the lac operon to the metabolic efficiency of a bacterial cell?
+the lacZ gene is highly expressed only when lactose is available
+
+bacterial cells that contain green fluorescent protein (GFP) will fluoresce under ultraviolet light. Which of the following is the most likely outcome of replacing the lacZ gene in the E. coli lac operon with the gene encoding GRP?
+beta galactosidase will be made only when bacteria are cultured under ultraviolet light
+
+which of the following predics the most likely outcome of moving a population of guppies from a pool with pike cichilids to a pool with killifish?
+after many generations, the offspring of the introduced guppies will mature at an older age and larger size because of selective pressure from the new predator
+
+which of the following questions will best direct an investigation of the mechanism of ATP synthase?
+is the phosphorylation of ADP by ATP synthase dependent on the formation of a proton gradient?
+
+the figure above represents a rough endoplasmic reticulum. Which of the following best describes the role of the structure labeled Y?
+Structure Y is the location where proteins are synthesized
+
+in a sample of 2,400 people, 1,482 were found to have the dominant (taster) phenotype. assuming that the population is in Hardy-Weinberg equilibrium, approximatelt how many individuals in the sample are expected to be heterozygous for TAS2R38
+1,133
+
+which of the following scientific questions will best help researchers determine when the nontaster allele arose in the evolutionary history of the selected primates?
+does the nontaster allele exiset in any nonhuman primate populations?
+
+NUCLEOTIDE VARIATION IN THE TAS2R38 - which of the following conclusions is supported by the data
+Bonobos are more closely related to humans than to gorillas because bonobos and humans share a more recent common ancestor than bonobos and gorillas do
+
+The TAS2R38 receptor protein has been detected on the surface of cells from individuals who are homozygous for the nontaster allele of TAS2R38 gene. Which of the following is the most likely effect of the mutations associated with the nontaster allele on TAS2R38 gene expression
+the mutations change the primary structure of the encoded receptor protein
+
+Which of the following best describe the likely evolution of the TAS2R38 locus in the gorilla population?
+gorillas who could taste bitter toxins were more likely to survive and reproduce than nontasters
+
+for each ion or molecule, the relative concentration on each side of the membran is indicated. Which of the following accurately describes one of the movements taking place?
+Na+ transport out of the cell requires ATP hydrolysis
+
+which of the following best describes how myelination affects the transmission of nerve impulses?
+it speeds up the transmission of impulses by acting as an electrical insulator
+
+which of the following is the best plan for collecting data to use in a test of the hypothesis?
+examining the upper part of the lower rock layer for evidence of a catastrophic event, such as the presence of shocked quartz, iridium, or soot particles
+
+which of the following statements best predicts the effect of increased cottonwood growth on the food web?
+increased cottonwood growth will provide more resources for cicadas, resulting in an increase in the kestrel population
+
+based upon the data, which of the following best describes the effect on the timing of cicada emergence if the cottonwood ground cover decreases from 50 percent to 25 percent
+cicadas will emerge approximately 10 days earlier
+
+based on the data, which of the following describes the most likely relationship between wildfires, soil temperature, and the timing of cicada emergence in the same year?
+wildfires caused a reduction in ground cover, which in turn caused increased soil temperatures leading to earlier emergence of cicadas
+
+yellow billed cuckoos typically hatch in mid July. Emerging cicadas are a primary food source for nesting cuckoos. Which of the following best predicts the effect of wildfires on yellow billed cuckoo populations?
+the yellow billed cuckoo population will decline because the cicadas will emerge before the hatching season begins
+
+the data from the temperature controlled experimental plots can best be used to support which of the following conclusions about cicada dvelopment?
+cicada nymphs mature to adults faster in warmer soil than in cooler soil
+
+the table above shows the types and properties of nitrogen containing wastes produced by several vertebrates. Which of the following is the best evolutionary explanation of the data?
+ammonia secretion requires a large volume of water and was therefore selected against in terrestrial vertebrate
+
+the figure above shows an organelle typically found in eukaryotic cells. Which of the following best describes the function of the double membrane system of this organelle?
+the inner membrane has specialized proteins that create a hydrogen ion concentration gradient between the intermembrane space and the matrix
+
+which of the following best describes an event during step 2 in the simplified model above?
+noncoding sequences are removed from a newly synthesized RNA molecule
+
+which of the following correctly compares the two processes shown above?
+both processes increase genetic variation
+
+based on the model, which of the following mutations is most likely to result in a cell that will generate a cancerous tumor?
+a mutation in the gene encoding G-PIP that results in a nonfunctional protein
+
+Figure 1 illustrates a model of the molecules involved in DNA replication and their placement relative to each other.
+DNA replication will be initiated immediately to the left of the RNA , since DNA polymerase requires an RNA primer.
+
+Which of the following best explains why a shortened protein is produced?
+The mutation introduces a premature stop codon, causing translation to end early.
+
+Erwin Chargaff investigated the nucleotide composition of DNA . He analyzed DNA from various organisms and measured the relative amounts of adenine (A), guanine (G), cytosine (C), and thymine (T) present in the DNA of each organism. Table 1 contains a selected data set of his results.
+Which of the following statements best explains the data set?
+Since the %C and the %G are approximately the same in each sample, cytosine and guanine molecules must pair up in a double-stranded DNA molecule.
+
+When analyzing the amino acids and DNA sequences of two rats, a scientist determined that there was more genetic variability than there were differences in amino acids sequences. How can this phenomenon be explained?
+NOT
+DNA sequencing is more reliable that protein sequencing.
+
+When DNA replicates, each strand of the original DNA molecule is used as a template for the synthesis of a second, complementary strand. Which of the following figures most accurately illustrates enzyme-mediated synthesis of new DNA at a replication fork?
+arrows out on top side, long arrow in on bottom side
+
+Accuracy in the translation of mRNA into the sequence of amino acids in a polypeptide depennds on specificity in which of the following?
+bonding of the anticodon to the codon and the attachment of amino acids to tRNAs
+
+Researchers studying new viruses analyzed the genetic material found in four different virus samples to determine the percent nitrogen base composition of each virus. The data are shown in the table.
+BASE DISTRIBUTION IN FOUR NUCLEIC ACID SAMPLES
+Which of the following samples most likely contains a double-stranded RNA virus?
+Sample 1
+
+Antibiotics interfere with prokaryotic cell functions. Streptomycin is an antibiotic that affects the small ribosomal subunit in prokaryotes. Specifically, streptomycin interferes with the proper binding of tRNA to mRNA in prokaryotic ribosomes. Which of the following best predicts the most direct effect of exposing prokaryotic cells to streptomycin?
+Synthesis of polypeptides will be inhibited.
+
+A cow can help make human insulin by modifying the expression of certain genes. Which of the following is the basis of this process.
+Transcription and translation are fundamentally similar in both cows and humans.
+
+There are several enzymes involved during DNA replication. Which enzyme is used place the start primer on the so that the new base pairs can be added?
+NOT
+DNA polymerase
+
+A model that represents a process occurring in a cell of a particular organism is shown in Figure 1. Which of the following correctly explains the process shown in Figure 1 ?
+NOT
+Alternative splicing of mRNA is occurring because the mRNA strand is being synthesized from only one strand of DNA .
+
+In eukaryotic cells, transcription cannot begin until
+several transcription factors have bound to the promoter.
+
+Which of the following DNA strands will code for the amino acid sequence shown above?
+APPARENTLY ITS NOT
+CCTTCGCCT
+
+Based on the universal genetic code, which of the following represents the correct polypeptide that will result from translation of the mRNA molecule shown, beginning with the first available start codon?
+NOT
+Asp-Arg-Met-Val-Thr-Lys-Phe-Gly-His
+
+Which of the following best explains the process represented by Figure 1 ?
+NOT
+The synthesis of mRNA in the 5' to 3' direction from DNA
+
+A scientist adds a chemical to a culture of dividing cells in order to disrupt DNA replication. The replicated DNA produced by the cells is double-stranded, but sections of it lack covalent bonds between adjacent nucleotides (Figure 1).
+Which of the following claims is best supported by the data?
+NOT
+The chemical blocks DNA polymerase.
+
+Which of the following best explains what process is represented in Figure 1 ?
+New DNA strands are being synthesized in the 5' to 3' direction from their DNA templates.
+
+Nuclear pores regulate the passage of substances into and out of the nucleus. Antibodies such as mAb414 have been used to inhibit the movement of substances through the nuclear pores of rat liver cells. Scientists cultured rat liver cells (eukaryotic) and bacteria cells (prokaryotic) in separate dishes with radioactively labeled amino acids. A specific gene in both cell types was engineered to synthesize identical polypeptide chains, and translation of this gene was measured. The procedure was repeated with mAb414 (the inhibitor) added to each of the two cell cultures, and translation was monitored again. Which of the following sets of graphs best summarizes the results of the experiments?
+IDK SORRYYY
+
+Beta thalassemia is a disorder caused by mutations in the HBB gene. Examination of the HBB protein in an individual with beta thalassemia shows that the protein is missing many amino acids at its carboxyl terminus. Which of the following is the most likely explanation for how a mutation in the DNA could result in the loss of the carboxyl terminus of the HBB protein?
+NOT
+The mutation changes the promoter sequence of the gene such that different transcription factors initiate transcription of the gene.
+
+If a segment of DNA is 5'-TAC GAT CTA CGA-3', the RNA that results from the transcription of this segment will be
+3'-AUG CUA GAU GCU-5'
+
+Sickle-cell anemia results from a point mutation in the HBB gene. The mutation results in the replacement of an amino acid that has a hydrophilic R-group with an amino acid that has a hydrophobic R-group on the exterior of the hemoglobin protein. Such a mutation would most likely result in altered
+properties of the molecule as a result of abnormal interactions between adjacent hemoglobin molecules
+
+Which of the following best describes the physiological significance of the different oxygen-binding capabilities of hemoglobin and myoglobin?
+They enhance movement of oxygen from the blood into the muscles.
+
+The synthesis of protein or carbohydrate polymers always produces which of the following as a byproduct
+water
+
+4 ypes biological molecules
+lipids, carbohydrates, nucleic acids, and protiens
+
+biologicals molecues are made up of..
+monomers. (the letters to make up the word)
+
+why are lipids different?
+Only made up of one monomer. generally non-polare but can be polar?
+
+nuecleic acids examples
+DNA and RNA
+
+building block of nuecleic acids are nucliotides
+they are made up of sugar, a phospate group, and a nitrougous base
+
+building blocks of proteins
+amino acids
+
+sugars are monomers of carbohydrates
+true
+
+carohydrate building blocks
+sugars
+
+polymers are made up of monomers
+true
+
+dehydration synthesis
+A chemical reaction in which two molecules covalently bond to each other with the removal of a water molecule
+
+hydrolisis reaction
+A hydrolisis reaction involves the addition of water (H2O) to a disaccharide or polysaccharide in order to turn back into a monosaccharide.
+
+nucleic acids formation
+phosphate groupe attached to a sugar group attached to a base
+
+RNA
+cytosine, guanine, adenine, and uricil
+
+DNA
+cytosine, guanine adenine, and thymine
+
+how many amino acids make up a protein
+20 amino acids
+
+amino acid formation
+an amino group (h-n-h) and a carboxyl groupe (o=c-oh) connected to h-c-r
+
+What is the R in a Amino acid (AA) called? (protein)
+the side group/chain which makes them all different
+
+lipids mzake ______ inside us
+membanes.
+
+hydrocarbon tails
+make up lipids (cholesterol, phospholipids, triglycerides)
+
+Lipids are hydrophobic or hydrophilic?
+hydrophobic
+
+phospholipids are polar and nonpolar
+yes.
+
+Saturated fat at room temperature
+solid
+
+unsaturated fat at room temp
+liquid
+
+what does carbohydrates provide us?
+energy and structure.
+
+what are carbohydrates building blocks
+sugars
+
+two types of inhibition
+competitive(blocks activ sites) and allosteric(changes shape)
+
+what does the active site do in an exzyme
+this is where the substrate can fit into the enzyme
+
+Which of the following people conducted the experiments that demonstrated that DNA is the genetic material of bacteriophages?
+B. Hershey and Chase
+
+The monomers of DNA and RNA are
+C. Nucleotides
+
+How would the shape of a DNA molecule change if adenine paired with guanine and cytosine paired with thymine?
+A. The DNA molecule would have irregular widths along its length
+
+Which of the following statements regarding a DNA double helix is always true?
+B. The amount of adenine is equal to the amount of thymine, and the amount of guanine is equal to the amount of cytosine
+
+DNA replication
+B. Uses each strand of a DNA molecule as a template for the creation of a new strand
+
+When one DNA molecule is copied to make two DNA molecules, the new DNA contains
+D. 50% of the parent DNA
+
+Multiple origins of replication on the DNA molecules of eukaryotic cells serve to
+A. Shorten the time necessary for DNA replication
+
+The transfer of genetic information from DNA to RNA is called
+D. Transcription
+
+Which of the following options best depicts the flow of information when a gene directs the synthesis of a cellular component?
+D. DNA --> RNA --> Protein
+
+We would expect that a 15-nucleotide sequence ending with a stop codon will direct the production of a polypeptide that consists of
+B. 4 Amino Acids
+
+Which of the following enzymes catalyzes the linking together of RNA nucleotides to form RNA?
+C. RNA Pol II
+
+Which of the following occurs when RNA polymerase attaches to the promoter DNA?
+C. Initiation of a new RNA molecule
+
+______ marks the end of a gene and causes transcription to stop
+A. A terminator
+
+Where do transcription and translation occur in prokaryotic cells?
+C. In the cytoplasm
+
+Which of the following statements about eukaryotic RNA is true?
+B. Exons are spliced together
+
+Which of the following takes place during translation?
+C. The conversion of genetic information from the language of nucleic acids to the language of proteins
+
+Which of the following is a function of a tRNA molecule?
+B. Transferring nucleotides to rRNA
+
+Which of the following is not needed in order for translation to occur?
+A. DNA template
+
+Which of the following statements is false?
+A. An mRNA molecule transcribed from DNA is shorter than the genetic message it carries
+
+Consider the following sentence: "The dog did not eat." Which of the following variations of this sentence is most like a base substitution mutation?
+A. The doe did not eat
+
+In the 1920s, Frederick Griffith conducted an experiment in which he mixed the dead cells of a bacterial strain that can cause pneumonia with live cells of a bacterial strain that cannot...Which of the following processes of bacterial DNA transfer does this experiment demonstrate?
+A. Transformation
+
+What nucleotide sequence would be found on the partner DNA strand of the strand shown?
+C. TGACA
+
+If the left end of the daughter strand indicated in the figure (see arrow) is being synthesized in one continuous piece, then
+C. The DNA at point C is being synthesized in one continuous piece
+
+A gene operon consists of
+D. Transcribed genes, an operator, and a promoter
+
+In a prokaryote, a group of genes with related functions, along with their associated control sequences, defines
+A. An operon
+
+The lac operon in E. coli
+C. Prevents lactose-utilizing enzymes from being expressed when lactose is absent from the environment
+
+The lac operon of E. coli is _____ when the repressor is bound to lactose
+A. Active
+
+The expression of the tryptophan operon is controlled by
+D. A repressor that is active when it binds to tryptophan
+
+The relationship between DNA and chromosomes is most like
+C. Thread wrapped around a spool
+
+Enhancers are
+D. DNA sequences to which activator proteins bind
+
+RNA splicing involves the
+A. Removal of introns from the molecule
+
+The coding regions of a gene (the portions that are expressed as polypeptide sequences) are called
+C. Exons
+
+A homeotic gene
+D. Serves as a master control gene that functions during embryonic development by controlling the developmental fate of groups of cells
+
+Transcription factors attach to
+C. DNA
+
+In this drawing of the lac operon, which molecule is an inactive repressor?
+D. Molecule D
+
+Which structure in this figure shows one complete nucleosome?
+D. Structure D
+
+Why don't the grafted hybrids produce apples with a blend of traits from the scion and the rootstock?
+B. The rootstock regulates gene expression in the scion, but contributes no genetic information for fruit production
+
+Half the trees in an orchard were derived from rootstock "A" and half from rootstock "B," but all the trees had the same scion. If the trees grafted onto rootstock "A" were infected by a parasite that causes blossom rot, the trees grafted onto rootstock B
+B. Would be very likely to become infected, because the remaining scions are genetically identical to those that are already infected
+
+Using radioactive tracers (shown below) to determine the interactions of bacteriophages and their hose bacteria, Hershey and Chase demonstrated without question that
+D. DNA is the molecule that stores genetic information in the cells
+
+Refer to the illustration below. Where on the lac operon does transcription take place?
+C. Gene (z)
+
+Refer to the illustration above. To which portion of the lac operon does the repressor bind?
+B. Operator (o)
+
+The function of the operator is to?
+A. Regulate access of RNA polymerase to specific genes
+
+Refer to the illustration below. What is the portion of the protein molecule coded for by the piece of mRNA that is: CUCAAGUCCUUC
+C. Leu-Lys-Ser-Phe
+
+The enzymes responsible for adding nucleotides to the exposed DNA template bases during replication are
+B. DNA Polymerases
+
+The enzymes that unwind DNA are called
+B. DNA Helicases
+
+During translation elongation tRNAs enter the ribosome through what channel?
+A. A channel
+
+Which of the following best describes the term "nonsense suppression"?
+B. Mutant tRNAs (that are bound to an amino acid) contain an anti-codon that can bind to the stop codon. This results in the ribosome continuing to translate past stop codons.
+
+Translation is associated with which cellular structure in eukaryotes?
+B. Rough Endoplasmic Reticulum
+
+Proteins are further modified by the addition of sugar residues in which compartment?
+C. Goldi Apparatus
+
+The D-Pax2 gene encodes a transcription factor that is crucial for specifying the four lens secreting non-neuronal cone cells... How will the pattern and/or level of D-Pax2 expression be affected if the binding sites for any of these DNA binding proteins are disrupted?
+A. D-Pax2 expression will be completely eliminated from the developing cone cells
+
+During the process of transcription, sequence specific transcription factors interact with which of the following types of enzymes?
+D. All the above
+
+Which of the following provides the best explanation for why a methylated guanine and a poly-A-tail are added to the 5' and 3' ends of the mRNA transcript respectively?
+D. B and C
+
+Which of the following is an incorrect statement regarding the structure of enhancers?
+D. Enhancer elements are only located upstream and near the transcriptional start site in eukaryotes
+
+Which of the following best describes the effect of DNA methylation?
+B. Transcriptional Repression
+
+Which of the following elements are removed from the mRNA transcript during RNA splicing?
+B. Intron sequences
+
+Which of the following statements regarding introns is incorrect?
+C. Each eukaryotic gene will contain at least one intron
+
+The splicing machinery does not recognize which of the following elements?
+C. 5' UTR
+
+Which of the following mediates the interactions between splicing proteins and mRNA transcripts?
+D. Splicing proteins are recruited to the splice sites within the mRNA through recognition of methylated RNA nucleotides
+
+The following is a list of introns of varying sizes: Intron I - 5kb, Intron II - 10kb, Intron III - 20kb, Intron IV - 100kb. Which one is most likely to undergo alternative splicing?
+D. Intron IV
+
+Which of the following is a true statement regarding alternate splicing?
+A. Alternate splicing allows for an increase in protein diversity through the differential use of exons while maintaining a small genome
+
+Where would a predicted silent mutation have to be located to actually result in a loss-of-function mutation (and potentially lead to the onset of disease)?
+A. Intron-exon junction/splice site
+
+Which of the following is a true statement regarding RNA?
+E. All of the above
+
+When DNA replicates, each strand of the original DNA molecule is used as a template for the synthesis of a second, complementary strand. Which of the following figures most accurately illustrates enzyme-mediated synthesis of new DNA at a replication fork?
+D.
+
+Lactose digestion in E. coli begins with its hydrolysis by the enzyme b-galactosidase...Which of the following figures correctly depicts the interactions at the lac operon when lactose is not being utilized?
+D.
+
+Which of the following is best supported by the data?
+C. Translation of bicoid mRNA produces caudal protein
+
+Plates that have only ampicillin-resistant bacteria growing include which of the following?
+C. IV only
+
+Which of the following best explains why there is no growth on plate II?
+A. The initial E. Coli culture was not ampicillin-resistant
+
+Plates I and III were included in the experiment design in order to
+A. Demonstrate that the E. Coli cultures were viable
+
+In a second experiment, the plasmid contained the gene for human insulin as well as the ampr gene. Which of the following plates would have the highest percentage of bacteria that are expected to produce insulin?
+C. IV only
+
+Although identical twins inherit exact copies of the same genes, the twins may look and act differently from each other because
+B. Gene expression may be affected by epigenetic factors that influence protein production
+
+Of the mutation types below, which one is least likely to affect the function of the protein corresponding to the gene where the mutation occurs?
+B. Base-pair substitution
+
+Which three codons would code for a different amino acid sequence from that coded for by the mRNA base sequence AGU-UCA-CCA?
+C. AGC-UCA-CUU
+
+Which of the following can best be used to justify why the GFP is expressed by E. Coli cells after transformation with the plasmid?
+A. The presence of arabinose in the nutrient agar activated the expression o the genes located downstream of the ara operon regulatory sequences
+
+Arrange the steps of DNA replication on the lagging strand in order with the earliest steps first
+C. 3, 5, 4, 2, 1
+
+Enzyme used in the synthesis of mRNA
+RNA Polymerase
+
+Enzyme found in retroviruses that produce DNA from an RNA template
+E. Reverse Transcriptase
+
+Enzyme used during replication to attach/seal Okazaki fragments to each other
+A. DNA Ligase
+
+Enzyme used to position nucleotides during DNA Replication
+B. DNA Polymerase
+
+A deletion of one base pair that alters the sequence of codonsis called a
+B. Point Mutation
+
+An operon consists of
+B. An operator, a promoter, and structural gene, repressor
+
+A mutation that causes premature completion of protein synthesis due to a substitution error is known as
+C. Nonsense Mutations
+
+What is the function of DNA Ligase in recombinant technology?
+E. Link together newly joined fragments of DNA
+
+Lactose digestion in E. coli begins with its hydrolysis by the enzyme b-galactosidase. The gene encoding b-galactosidase, lacZ, is part of a coordinately regulated operon containing other genes required for lactose utilization.
+Which of the following figures correctly depicts the interactions at the lac operon when lactose is NOT being utilized? (The legend below defines the shapes of the molecules illustrated in the options.)
+repressor protein
+
+The sequence for two short fragments of DNA are shown above. Which of the following is one way in which these two segments would differ?
+Segment 1 would be denatured at a lower temp than Segment 2 b/c A-T base pairs have 2 hydrogen bonds.
+
+When DNA replicates, each strand of the original DNA molecule
+is used as a template for the synthesis of a second, complementary
+strand. Which of the following figures most accurately illustrates
+enzyme-mediated synthesis of new DNA at a replication fork?
+question 3: arrows out on top side, long arrow in on bottom side
+
+sickle-cell anemia results from a point mutation in the HBB gene. The mutation results in the replacement of an amino acid that has a hydrophilic R-group with an amino acid that has a hydrophilic R-group on the EXTERIOR of the hemoglobin protein. Such a mutation would most likely result in altered
+properties of the molecule as a result of abnormal interactions between adjacent hemoglobin molecules
+
+Which of the following can best be used to justify why the GFP is expressed by E. coli cells after transformation
+with the plasmid?
+The presence of arabinose in the nutrient agar activated the expression of the genes located downstream of
+the ara operon regulatory sequences.
+
+Which of the following statements is true about protein synthesis in prokaryotes?
+Translation can begin while transcription is still in progress.
+
+Which point mutation would be most likely to have a catastrophic effect on the functioning of a protein?
+a base deletion near the start of the gene
+
+A frameshift mutation could result from
+either an insertion or a deletion of a base.
+
+When translating secretory or membrane proteins, ribosomes are directed to the ER membrane by
+a signal-recognition particle that brings ribosomes to a receptor protein in the ER membrane.
+
+As a ribosome translocates along an mRNA molecule by one codon, which of the following occurs?
+The tRNA that was in the A site moves into the P site
+
+Which of the following helps to stabilize mRNA by inhibiting its degradation?
+5' cap and poly A tail
+
+Transcription in eukaryotes requires which of the following in addition to RNA polymerase?
+several transcription factors (TFs)
+
+A possible sequence of nucleotides in the template strand of DNA that would code for the polypeptide sequence phe-leu-ile-val would be
+3' AAA-GAA-TAA-CAA 5'
+
+Using RNA as a template for protein synthesis instead of translating proteins directly
+from the DNA is advantageous for the cell because
+RNA acts as an expendable copy of the genetic material
+
+According to Beadle and Tatum's hypothesis, how many genes are necessary for this pathway?
+2
+
+A biochemist isolates and purifies various molecules needed for DNA replication. When she adds some DNA, replication occurs, but the DNA molecules formed are defective. Each consists of a normal DNA strand paired with numerous segments of DNA a few hundred nucleotides long. What has she probably left out of the mixture?
+DNA Ligase
+
+The leading and the lagging strands differ in that
+the leading strand is synthesized in the same direction as the movement of the replication fork, and the lagging strand is synthesized in the opposite direction
+
+Cytosine makes up 38% of the nucleotides in a sample of DNA from and organism. Aprox. what % will be thymine?
+12
+
+the following represents the steps of dna replication. put them in order
+III, I, II, IV, V
+
+In a second experiment, the plasmid contained the gene for human insulin as well as the ampr
+gene. Which of the following plates would
+have the highest percentage of bacteria that are expected to produce insulin?
+IV only
+
+Plates that have only ampicillin-resistant bacteria growing include
+which of the following?
+IV only
+
+Which of the following best explains why there is no growth on plate
+II?
+The initial E. coli culture was not ampicillin-resistant.
+
+Which of the following statements best explains why there are fewer
+colonies on plate IV than on plate III?
+Not all E. coli cells are successfully transformed.
+
+plates I and III were included in the experimental design in order to
+demonstrate that the E. coli cultures were viable
+
+It is thought that genes exert control in living organisms by
+a)Specifying polypeptide chains
+b)interacting with proteins in the chromosomes
+c)sorting themselves independently in meiosis
+d)interacting with enzymes in essential cell reactions
+a) specifying polypeptide chains
+
+Which of the following discoveries provides the best evidence fir the beliefe that DNA carries genetic information?
+a)The DNA content of cells from the different tissues of an organism is the same
+b)The adenine to thymine and guanine to cytosine ratios in DNA are equal to 1
+c)heretible transformation of bacterial cells is brought about by DNA
+d)DNA is present in chromosomes
+c) Heritable transformation of bacterial cells is brought about by DNA
+
+During development, individual cells of the same organism begin to produce different protiens because:
+a)the cells have different numbers of chromosomes
+b)not all cells can synthesize protiens
+c)specific genes are activated in the cells
+d)the cells have different kinds and amounts of DNA
+c) specific genes are activated in the cells
+
+Actinomycin D is an antibiotic drug that inhibits protien synthesis by blocking transcription. In some cells, the application of the drug does not affect the synthesis of certain protiens. Which of the following best explains such an occurrence?
+a)Not al protiens need tRNA molecules for their syntehsis
+b)The protiens that are made are using mRNA synthesized before application of the drug.
+c)Nuclear protiens do not require the cytoplasmic machinery of ribosomes
+d)DNA transcription is not necessary for protien synthesis.
+b) the proteins that are made are using mRNA synthesized before application of the drug
+
+According to the Jacob-Monod model of the lac operon, the regulator gene does which of the following?
+a) specifies the amino acid sequence of the enzyme
+b) controls the activity of histones
+c) determines whether promoter genes will be translated
+d) directs the synthesis of a repressor protien
+d) directs the synthesis of a repressor protien
+
+Prokaryotes differ from eukaryotes in that only the prokaryotes contain:
+a) mitochondria in which glucose is oxidized
+b) DNA that is not bound to histone protien
+c) chromosomes enclosed within a nuclear envelope
+d) photosynthetic pigments in plastids
+b) DNA that is not bound to histone protein
+
+A single substitution in the third position would have the greatest probablility of mutational effect on the codon:
+a) GUU
+b) AUU
+c) CGU
+d) AUG
+d) AUG
+
+Which amino acid has the greatest number of codons?
+a) Leucine (leu)
+b) Proline (pro)
+c) Tryptophan (trp)
+d) Glutamic Acid (glu)
+a) Leucine (leu)
+
+The replacement of glutamic acid by valine at a specific position in the beta chains of hemoglobin leads to sickle cell anemia. This change represents which of the following mutational events?
+a) DNA base-pair substitution
+b) DNA base-pari deletion
+c) DNA base-Pair addition
+d) Chromosomal deletion
+a) DNA base-pair substitution
+
+GTAGTAGGT
+What would be the sequence of bases of an mRNA molecule that was transcribed from the sequence of DNA bases shown above?
+a) GTAGTAGGT
+b) CAUCAUCCA
+c) UCGUCGUUC (D)
+d) AUGAUGAAU
+b) CAUCAUCCA
+
+In DNA replication, DNA polymerase catalyzes the reaction in which:
+a) the double helix unwinds
+b) the sugar phosphate bonds of each strand are broken
+c) a phosphate group is added to the 3' -carbon or 5' _carbon of ribose
+d) a nucleotide with a base complementary to the base on the template strand is added to the new DNA strand
+d) a nucleotide with a base complementary to the base on the template strand is added to the new DNA strand
+
+The working of lac operon is important for which of the following reasons?
+a) It represents a principle means by which genes are regulated in prokaryotes
+b) it represents a principle means by which genes are regulated in eukaryotes
+c) It illustrates the complexities of rRNA transcription
+d) It provided the first clues to how DNA replication is controlled during the cell cycle
+a) it represents a principal means by which genes are regulated in prokaryotes
+
+DNA replication can be described as
+a) semiconservative
+b) conservative
+c) degenerative
+d) dispersive
+a) semiconservative
+
+Which of the following is a correct statement about mutations?
+a) they are a source of variation for evolution
+b) they drive evolution by creating mutation pressures
+c) they are irreversible
+d) they occur in germ cells but not in somatic cells
+a) they are a source of variation for evolution
+
+Some geneticists consider the third base of a codon to be less important than the first two bases as a code for a specific amino acid. All of the following observations would support this hypothesis EXCEPT:
+a) any of the bases following a CC_ sequence will position a proline
+b) even though the A is replaced by a C, the triplet AGG will still position to an arginine
+c) even though the last A is replaced by a G, the triplet UAA will still terminate a polypeptide chain
+d) an AUU triplet codes for isoleucine, while a UUU triplet codes for phenylalanine
+b) Even though A is replaced by a C, the triplet AGG will still position to an arginine
+
+A tobacco plant can be made to express a gene from fireflies, resulting in the emission of light. Which of the following is the basis for this phenomenon?
+a) Chloroplasts can be made to produce light if firefly proteins are injected into plant cells
+b) Fireflies and tobacco plants share a recent common ancestor
+c) Fireflies and tobacco plants are infected by the same kinds of bacteria
+d) Transcription and translation are fundamentally similar in both fireflies and tobacco plants
+d) Transcription and translation are fundamentally similar in both fireflies and tobacco plants
+
+Gibberellic acid stimulates the cells of germinating grass seeds to produce mNA molecules that code for hydrolytic enzymes. In this case the role of gibberellic acid can best be described as that of
+a0 a regulator of gene activity
+b) a simulator of hydrolase secretion
+c) a simulator of DNA replication
+d) an allosteric activator of hydrolase
+a) a regulator of gene activity
+
+Analysis of DNA sequences from two individuals of the same species results in a greater estimate of genetic variability than does analysis of amino acid sequences from the same individuals because:
+a) different DNA sequences can code for the same amino acid
+b) some amino acid variations cannot be detected by protein electrophoresis
+c) DNA sequencing is a more reliable technique than protein electrophoresis
+d) proteins are more easily damaged than is DNA
+a) different DNA sequences can code for the same amino acid
+
+Which of the following messenger RNA sequences could code for both of the two amino acid sequences above, simply by a shift in the reading frame?
+a) AGCAGCAGCAGC
+b)AGUAGUAGUAGU
+c) CAACAACAACAA
+d) GCUGCUGCUGCU
+a) AGCAGCAGCAGC
+
+Which of the following DNA strands will code for the amino acid sequence shown above?
+a) ACTCCTTCT
+b) TCTCCGTCG
+c) CCTTCGCCT
+d) CCTCCGTCG
+c) CCTTCGCCT
+
+A reasonable conclusion to draw from the results of the experiment is that:
+a) DNA is the genetic material
+b) DNA replication is semiconservative
+c) DNA is a double helix
+d) DNA is translated into protien
+a) DNA is the genetic material
+
+What was the purpose of treating the extract with protein-degrading enzymes in Procedure II?
+a) to demonstrate that the transforming factor is an enzyme
+b) to demonstrate that the transforming factor is not a protein
+c) to destroy nucleic acids in the extract
+d) to destroy any capsules in the extract
+b) to demonstrate that the transforming factor is not a protein
+
+What was the purpose of treating the extract with DNAse in Procedure III?
+a) to remove the encapsulated bacteria from the extract
+b) to serve as a positive control by demonstrating that a protein in the extract is the transforming factor
+c) to serve as a negative control by demonstrating that transformation does not occur without DNA
+d) to destroy enzymes in the extract
+c) to serve as a negative control by demonstrating that transformation does not occur without DNA
+
+BONUS: The base composition of DNA varies from one species of bacteria to another. Which of the following ratios would you expect to remain constant in the DNA. regardless of the species?
+a) pyrimidine + purine/ deoxyribose
+b) adenine/ cytosine
+c) adenine + cytosine/ deoxyribose
+d) Pyrimidine/ ribose
+a) pyrimidine + purine/ deoxyribose
+
+BONUS #2: The nitrogenous base, adenine, is found in which three of the following?
+a) proteins, chlorophyll, and vitamin A
+b) proteins, ATP, and DNA
+c) ATP, DNA, and RNA
+d) Chlorophyll, ATP, and DNA
+c) ATP, DNA, and RNA
+
+BONUS #3: In order for a bacterium to produce a eukaryotic protien, which of the following must first be isolated from a eukaryotic cell prior to cloning?
+a) the protiens primary RNA transcript from the nucleus
+b) the proteins mRNA from the cytoplasm
+c) the protien from the rough endoplasmic reticulum
+d) the introns from the segment of DNA that codes for the protien
+b) the proteins mRNA from the cytoplasm
+
+The Lac Operon
+Regulates transcription by turning on or off the production of a repressor protein
+
+Nucleic Acid
+both viruses and prokaryotes contain this
+
+mRNA
+carries the code that determines the sequence of monomers in a protein
+
+RNA Nucleotides
+Primers that initiate DNA replication consist of these
+
+They can be transferred between bacteria during conjugation
+correctly describes plasmids
+
+Small nuclear ribonucleoproteins (snRNPs)
+DNA replication does not require this
+
+A Bacteriophage
+A virus that attacks a bacteria
+
+Which of the following is true of the dye used to stain the fragments?
+It increases the contrast between Agar and the DNA fragments
+
+GGGCCUUAA
+transcription of the DNA sequence CCCGGAATT
+
+An amino acid is related to a protein in the same way as
+Glucose is to Starch
+
+Amino Acids
+Adenine, a nitrogen base, is not found in this
+
+In an effort to clone a human protein, material from a human cell is introduced into bacteria. Which of the following human materials are needed for this procedure?
+the protein's mRNA transcript found in the cytoplasm
+
+During DNA replication, enzymes break the hydrogen bonds between the nucleotide base pairs to unwind the double-helix DNA molecule. What prevents the hydrogen bonds from reforming?
+Single-stranded binding proteins (SSBPs)
+
+Which of the following statements concerning a gene is correct?
+a gene can code for a specific protein
+
+...glutamine-glutamine-glutamine... ....serine-serine-serine...... Which of the following messenger RNA sequences could code for both of the two amino acid sequences?
+...AGCAGCAGCAGC...
+
+glycine-serine-glycine... (1994-116)
+Which of the following DNA strands will code for the amino acid sequence above?
+CCTTCGCCT
+
+Viruses
+There is some evidence that interferon may be effective against certain forms of cancer. This finding suggests that some cancers involve these
+
+Which of the following terms refer to both the movement of a ribosome along a piece of mRNA and the movement of a piece of one chromosome to another chromosome?
+Translocation
+
+Certain metabolic pathways are affected by the buildup of a product which interacts with an enzyme catalyzing one of the initial steps of the pathway; this can be an example of
+Feedback inhibition
+
+Analysis of DNA sequences from two individuals of the same species results in a greater estimate of genetic variability than does analysis of amino acid sequences from the same individuals because
+Different DNA sequences can code for the same amino acid
+
+DNA ligase
+Enzyme used during replication to attach Okazaki fragments to each other
+
+DNA polymerase
+Enzyme used in synthesis of mRNA
+
+Nucleic Acids
+Used to carry the genetic code
+
+DNA is
+The genetic material
+
+What was the purpose of treating the extract with DNAse in Procedure III?
+To serve as a negative control by demonstrating that transformation does no occur without DNA
+
+The rate of migration of the DNA fragments through the agarose gel is determined by the
+Number of nucleotides in the fragment
+
+Lipids
+Used for insulation and buoyancy in marine Arctic animals
+
+
+Original
+You are studing an organism and discovered that its genetic information is stored in a circular chromosome. This indicates
+Its a prokaryote
+
+More enzymes are involved in the replication of the lagging strand of DNA than the leading strand of DNA because ...
+DNA can only be synthesized from the 5' end to the 3' end.
+
+Cytosine and guanine always pair in DNA because ...
+They form 3 hydrogen bonds, while adenine-thymine form 2 hydrogen bonds.
+
+Which of the following is not a shared characteristic of both DNA and RNA?
+Uracil bases
+
+All of the following statements are true regarding prokaryotic and eukaryotic chromosomes except
+Prokaryotic chromosomes undergo replication prior to cell division, eukaryotic chromosomes undergo replication during the mitotic phase.
+
+Which of the following statements regarding transcription in prokaryotes is accurate?
+Transcription occurs in the cytoplasm of the cell
+
+Which of the following statements regarding translation in prokaryotes is false
+Codons are pairs of nucleotides in a RNA strand
+
+Which of the following statements regarding transcription in eukaryotes is false?
+Transcription of the gene is initiated by transcription factors at the promoter region
+
+Which of the following statements regarding translation in eukaryotes is accurate?
+Only the exons of the gene are translated into protein
+
+Which of the following is not a shared feature of gene expression in all living organisms?
+mRNA splicing occurs prior to translation
+
+Which of the following mutations would be most likely to have a harmful effect on an organism.
+A single base insertion near the middle of an exon
+
+A particular cell has half the amount of DNA as other cells in mitotically active tissue. This cell is likely in which phase
+Gap 1
+
+Increased Cdk (cyclin-dependent kinase) activity in the cell will likely result in
+Increased DNA polymerase activity
+
+If a cell were to undergo mitosis without first passing through the S phase, what would likely result?
+Two haploid daughter cells
+
+In some organisms, mitosis occurs without cytokinesis occurring. This will result in...
+Cells with more than one nucleus
+
+Which of the following does not increase the genetic variation in a population?
+Mitosis
+
+Which of the following correctly distinguishes between mitosis and meiosis
+Sister chromatids are separated during anaphase of mitosis but they are separated during anaphase II of meiosis
+
+Non-disjunction is the failure of chromosomes or sister chromatids to separate during meiosis. Which of the following statements is false regarding nondisjunction?
+In many instances, nondisjunction results in the spontaneous abortion when the gamete undergoes fertilization
+
+Silent mutations do not affect the structure of the resulting protein. This is best explained by...
+Redundancy in the genetic code
+
+Enzyme used during replication to attach Okazaki fragments to each other
+DNA ligase
+
+An intervening sequence in a eukaryotic gene is called a/an
+Intron
+
+If a segment of DNA is 5' TAC CAT TAG 3', the RNA that results from the transcription of this segment will be
+3' AUG GUA AUC 5'
+
+Which of the following terms refers to both the movement of a ribosome along a piece of mRNA and the movement of a piece of one chromosome to another chromosome.
+Translocation
+
+Because one original stand of the double stranded helix is found in each daughter cell, the replication process is called
+semi conservative
+
+Which of the following statements about DNA replication is not correct
+replication occurs as each base is paired with another exactly like it
+
+If a species contains 23% adenine in its DNA, what is the percentage of guanine it would contain?
+27%
+
+Which of the classes of RNA molecules carries the genetic information as it is needed for the construction of a protein?
+Messenger RNA
+
+Information from X-Ray crystallographic data collected by ______ was used by Watson and Crick in their development of the model of DNA
+Franklin
+
+The discontinuous strand during DNA replication
+Lagging strand
+
+The proteins on which DNA is wound are called
+Histones
+
+All of the following are advantages of sexual reproduction, except:
+Energetically costly
+
+Upon completion of _________ the cell has now gone from a diploid cell to a haploid cell occurs during
+Meiosis
+
+Crossing over occurs during:
+Prophase I
+
+Crossing over involves
+All of the above
+
+A cell is haploid after
+Anaphase I of meiosis
+
+The two strands of the DNA molecule are connected by
+Hydrogen bonds between the bases of one strand and the bases of the second strand
+
+All of the following combinations of nucleotides are examples of normal base pairing except
+a thymine RNA nucleotide to an adenine DNA nucleotide
+
+Which of the following is true?
+Ribosomes contain RNA nucleotides and amino acids
+
+All of the following enzymes are involved in DNA replication except:
+Protoase
+
+The figure above depicts the DNA-protein complex that is assembled at the transcription start site of gene X when the expression of gene X is activated in liver cells. Previous studies have shown that gene X is never expressed in nerve cells. Based on the diagram, which of the following most likely contributes to the specific expression pattern of gene X?
+The general transcription factor inhibit the activation of gene X in liver cells y blocking the activator from binding to RNA Polymerase II
+
+Which is most directly responsible for the sequence of amino acids in a protein?
+The sequence of codons in mRNA
+
+The universal regulatory mechanism in eukaryotes for controlling gene expression includes
+All of the above
+
+Bacteria can be used to synthesize human insulin for diabetic patients. Which of the following correctly illuslates the steps necessary to produce this medication?
+Locate the gene using DNA sequencer, remove the gene onto a plasmid, transform bacteria using the plasmid
+
+With what mRNA codon would the tRNA in the diagram to the left be able to form a codon-anticodon base pairing interaction? (UAC)
+3' AUG 5'
+
+A small amount of DNA is found at a crime scene. To increase the availability of this DNA for testing technicians will use
+Polymerase chain reaction
